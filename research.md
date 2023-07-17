@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post-index
 title: My Projects
 menutitle: Research
 menuorder: 5
