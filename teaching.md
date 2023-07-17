@@ -5,13 +5,24 @@ menutitle: Teaching
 menuorder: 3
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Adjunct Instruction
 
+As an adjunct instructor, I have primarily worked with students in virtual learning settings due to Covid-19 precautions. I encourage remote learning by developing and evaluating assignments and exams to be completed virtually, holding weekly office hours in Zoom, answering student questions using Canvas discussions, and providing timely feedback on student work through Canvas.
 
-## Current Interests and Projects:
+## Teaching Assistantships
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+As a teaching assistant for five semesters, I have had the opportunity to work with students in a variety of learning environments, such as lecturing during weekly recitations, answering questions in an active learning classroom, or leading discussions in during weekly laboratory sections. Additionally, I have led students on local field trips to explore weathering and erosion, soil profiles, stratigraphy, and geomorphology of the White Clay Creek watershed for both Surficial Processes and introductory geology classes at the University of Delaware.
+
+## Teaching Experiences
+
+Penn State Brandywine, Adjunct Instructor
+- GEOG 3N: Future of Food – Fall 2021
+- EARTH 100: Environment Earth – Fall 2020, Spring 2021
+
+University of Delaware, Teaching Assistant
+- GEOL 203: Surficial Processes – Spring 2020
+- GEOL 107: Geology of Dynamic Earth – Fall 2018, Spring 2019
+
+University of Pennsylvania, Teaching Assistant
+- GEOL 130: Oceanography – Spring 2018
+- GEOL 100: Introduction to Geology – Fall 2017
