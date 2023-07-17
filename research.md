@@ -2,7 +2,7 @@
 layout: post-index
 title: My Projects
 menutitle: Research
-menuorder: 5
+menuorder: 1
 ---
 
 ## Transport of Coarse Sediment in Mid-Atlantic Streams
