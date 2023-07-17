@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "About Me..."
+excerpt: 
 menutitle: Teaching
 menuorder: 3
 ---
