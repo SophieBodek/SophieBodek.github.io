@@ -40,12 +40,6 @@ owner:
   codepen: #username
   disqus-shortname:
 
-# Footer info
-affiliation: >
-    Richard Feynman<br/>
-    Professor of Physics<br/>
-    California Institute of Technology
-
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
 highlight-color: '#CC0000'
