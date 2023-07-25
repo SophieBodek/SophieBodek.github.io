@@ -12,4 +12,4 @@ Based on well-developed hydraulic geometry relations for width and depth, classi
 
 ![Description](/images/WCC_survey.jpeg)
 
-**Bodek, S.**, Pizzuto, J.E., McCarthy, K.E., Affinito, R.A. (2021) “Achieving equilibrium as a semi-alluvial channel: anthropogenic, bedrock, and colluvial controls on the White Clay Creek, PA, USA.” *Journal of Geophysical Research: Earth Surface, 126*, e2020JF005920. doi.org/10.1029/2020JF005920
+**Bodek, S.**, Pizzuto, J.E., McCarthy, K.E., Affinito, R.A. (2021) “Achieving equilibrium as a semi-alluvial channel: anthropogenic, bedrock, and colluvial controls on the White Clay Creek, PA, USA.” *Journal of Geophysical Research: Earth Surface, 126*, e2020JF005920. [doi.org/10.1029/2020JF005920](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JF005920)
