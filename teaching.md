@@ -18,6 +18,7 @@ As a teaching assistant for five semesters, I have had the opportunity to work w
 ## Teaching Experiences
 
 Penn State Brandywine, Adjunct Instructor
+- EARTH 111: Water: Science and Society - Spring 2022
 - GEOG 3N: Future of Food – Fall 2021
 - EARTH 100: Environment Earth – Fall 2020, Spring 2021
 
