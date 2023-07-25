@@ -4,7 +4,7 @@ title: Transport of Coarse Sediment in Mid-Atlantic Streams
 excerpt: "Based on well-developed hydraulic geometry relations for width and depth, classic studies initially interpreted the Mid-Atlantic White Clay Creek (WCC) as a quasi-equilibrium, alluvial channel. Subsequent studies document the legacy of colonial-age watershed disturbances and urban development, confounding earlier classifications."
 modified:
 tags:
-comments: true
+comments:
 category: research
 ---
 
