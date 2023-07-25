@@ -7,7 +7,7 @@
 {% include _head.html %}
 </head>
 
-<body class="post-index">
+<body class="research-post">
 
 {% include _browser-upgrade.html %}
 
@@ -47,3 +47,30 @@
 </div><!-- /.footer-wrap -->
 
 {% include _scripts.html %}
+
+
+<!--  <article class="page">
+    <h1>{{ page.title }}</h1>
+    <div class="article-wrap">
+      {{ content }}
+      {% if page.share != false %}
+        <hr />
+        {% include _social-share.html %}
+      {% endif %}
+    </div><!-- /.article-wrap -->
+<!--    {% if site.owner.disqus-shortname and page.comments == true %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+<!--    {% endif %}
+  </article>
+</div><!-- /#index -->
+
+<!--<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<!--{% include _scripts.html %}
+
+</body>
+</html>
