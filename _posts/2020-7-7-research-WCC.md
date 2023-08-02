@@ -5,7 +5,6 @@ excerpt: "Based on well-developed hydraulic geometry relations for width and dep
 modified:
 tags:
 comments:
-image: \images\WCC_survey.jpeg
 category: research
 ---
 
