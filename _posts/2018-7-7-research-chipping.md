@@ -18,4 +18,4 @@ This research has been supported by the University of Pennsylvania Center for Un
 
 #### Conference Abstracts
 
-Bodek, S. and Jerolmack, D.J. "How pebbles round and rocks fragment: particle shape evolution according to transport mechanism." American Geophysical Union (AGU) Fall Meeting, Washington, D.C., 10-14 December 2018, Poster.
+**Bodek, S.** and Jerolmack, D.J. "How pebbles round and rocks fragment: particle shape evolution according to transport mechanism." American Geophysical Union (AGU) Fall Meeting, Washington, D.C., 10-14 December 2018, Poster.
