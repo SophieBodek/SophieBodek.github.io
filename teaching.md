@@ -38,3 +38,5 @@ University of Pennsylvania, Teaching Assistant
 - *Student-Faculty Liaison* at the University of Delaware Department of Earth Sciences (2018-2020)
 - *Communications Director* at the Penn Earth and Environmental Science Department Undergraduate Advisory Board (2017-2018)
 - *Vice President & Co-Founder* of the University of Pennsylvania Geology Society (2016-2018)
+
+![Photo of a group of students.](/images/Wissahickon.jpg)
