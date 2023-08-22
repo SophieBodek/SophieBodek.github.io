@@ -8,7 +8,7 @@ menuorder: 4
 Insert CV here
 
 <embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://sophiebodek.github.io/cv/S_Bodek_CV_Nov2022.pdf" width="500" height="375">
+viewer?embedded=true&url=https://github.com/SophieBodek/SophieBodek.github.io/blob/main/S_Bodek_CV_Nov2022.pdf" width="500" height="375">
 
 
 
