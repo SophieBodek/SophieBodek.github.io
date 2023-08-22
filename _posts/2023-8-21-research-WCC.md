@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transport of coarse sediment in Mid-Atlantic streams
-excerpt: "The White Clay Creek is a gravel-bed river with banks that consist of cohesive sediment, bedrock, and colluvium. It also has a long history of human impacts, such as mill damming. Results from monitoring coarse sediment transport lead us use the term 'semi-alluvial' to describe the creek."
+excerpt: "The White Clay Creek is a gravel-bed river with banks that consist of cohesive sediment, bedrock, and colluvium. It also has a long history of human impacts, such as mill damming. Results from monitoring coarse sediment transport lead us use the term 'semi-alluvial' to describe this creek."
 modified:
 tags:
 comments:
