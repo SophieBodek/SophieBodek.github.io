@@ -9,6 +9,7 @@ owner:
   name: Sophie Bodek
   avatar: academic_profile.jpg
   bio: "PhD student in Civil and Environmental Engineering at Stanford."
+  location: "Palo Alto, CA"
   email: sbodek@stanford.edu #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: StreamofSophie #username
