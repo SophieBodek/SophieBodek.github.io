@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Particle Breakdown through Chipping and Fragmentation
-excerpt: "As rocks are transported, they primarily undergo two breakdown mechanisms: chipping and fragmentation. Chipping occurs at relatively low collision energies typical of bed-load transport, and involves shallow cracking; this process rounds river pebbles in a universal manner. Fragmentation involves catastrophic breakup by fracture growth in the bulk – a response that occurs at high collision energies such as rock falls – and produces angular shards."
+excerpt: "River rocks become rounded into smooth pebbles, but other rocks become rough and angular when transported by landslides or rock falls. In this study, we attempt to experimentally delineate the transition between low-energy chipping and high-energy fragmentation."
 modified: 
 tags: 
 comments:
