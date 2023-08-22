@@ -18,14 +18,23 @@ As a teaching assistant for five semesters, I have had the opportunity to work w
 ## Teaching Experiences
 
 Penn State Brandywine, Adjunct Instructor
-- EARTH 111: Water: Science and Society - Spring 2022
-- GEOG 3N: Future of Food – Fall 2021
-- EARTH 100: Environment Earth – Fall 2020, Spring 2021
+- EARTH 111: Water: Science and Society - *Spring 2022*
+- GEOG 3N: Future of Food – *Fall 2021*
+- EARTH 100: Environment Earth – *Fall 2020, Spring 2021*
 
 University of Delaware, Teaching Assistant
-- GEOL 203: Surficial Processes – Spring 2020
-- GEOL 107: Geology of Dynamic Earth – Fall 2018, Spring 2019
+- GEOL 203: Surficial Processes – *Spring 2020*
+- GEOL 107: Geology of Dynamic Earth – *Fall 2018, Spring 2019*
 
 University of Pennsylvania, Teaching Assistant
-- GEOL 130: Oceanography – Spring 2018
-- GEOL 100: Introduction to Geology – Fall 2017
+- GEOL 130: Oceanography – *Spring 2018*
+- GEOL 100: Introduction to Geology – *Fall 2017*
+
+-----------
+
+## Mentoring and Engagement
+
+- *Graduate Mentor* to a University of Delaware Geology major, who acted as an undergraduate research assistant during Summer 2019
+- *Student-Faculty Liaison* at the University of Delaware Department of Earth Sciences (2018-2020)
+- *Communications Director* at the Penn Earth and Environmental Science Department Undergraduate Advisory Board (2017-2018)
+- *Vice President & Co-Founder* of the University of Pennsylvania Geology Society (2016-2018)
