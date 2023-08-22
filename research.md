@@ -1,6 +1,6 @@
 ---
 layout: research-post
-title: My Projects
+title: My ongoing and completed projects
 menutitle: Research
 menuorder: 2
 ---
