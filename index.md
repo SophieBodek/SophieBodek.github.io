@@ -11,7 +11,7 @@ I originally studied geology at the University of Pennsylvania and graduated wit
 
 I then earned a M.S. in Geology from the University of Delaware in 2020, where I was advised by fluvial geomorphologist [Jim Pizzuto](https://www.udel.edu/academics/colleges/ceoe/departments/es/faculty/james-pizzuto/). My thesis involved fieldwork and numerical modeling to evaluate coarse sediment transport at the White Clay Creek in Pennsylvania. I also helped with projects that examined riverbank stratigraphy and wetland deposits to infer historical land use changes in the Mid-Atlantic region, as well as fluvial deposits along the Powder River in Montana to investigate river meander migration. 
 
-In between graduating with my master's degree and starting a PhD in 2022, I taught at Penn State Brandywine as an adjunct instructor of Earth Sciences for four semesters. I also worked as a consultant in the environmental due diligence space during this time. After living on the East Coast for a quarter-decade, I enjoy spending time exploring my new California home. 
+In between graduating with my master's degree and starting a PhD in 2022, I taught at Penn State Brandywine as an adjunct instructor of Earth Sciences for four semesters. I also worked as a consultant in the environmental due diligence space. After living on the East Coast for a quarter-decade, I enjoy spending time exploring my new California home. 
 
 ![Photo of Sophie in front of a rocky coastline.](/images/banner_3.jpg)
 
