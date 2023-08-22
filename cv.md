@@ -7,8 +7,10 @@ menuorder: 4
 
 Insert CV here
 
-<embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://www.docdroid.net/C07WvZs/s-bodek-cv-nov2022-pdf" width="500" height="375">
+<iframe width="100%" height="600" src="https://www.docdroid.net/C07WvZs/s-bodek-cv-nov2022-pdf" frameborder="0" allowtransparency allowfullscreen></iframe>
+
+<!--<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://www.docdroid.net/C07WvZs/s-bodek-cv-nov2022-pdf" width="500" height="375">-->
 
 
 
