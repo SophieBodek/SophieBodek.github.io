@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Sophie Bodek
   avatar: academic_profile.jpg
-  bio: "PhD student at Stanford."
+  bio: "PhD student in Civil and Environmental Engineering at Stanford."
   email: sbodek@stanford.edu #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: StreamofSophie #username
