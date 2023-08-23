@@ -14,7 +14,10 @@ Based on well-developed hydraulic geometry relations for width and depth, classi
     height: 100%;
     clip-path: inset(20px 50px 10px 0 round 50px);
 }-->
-[<img src="/images/WCC_survey.jpeg" width="250"/>](/images/WCC_survey.jpeg)
+[<img src="/images/WCC_survey.jpeg" width="250"/>.cropped-image-clip-rectangle {
+    height: 100%;
+    clip-path: inset(20px 50px 10px 0 round 50px);
+}](/images/WCC_survey.jpeg)
 
 This project was supported by the Delaware Watershed Research Fund (Award #DWRF-16-109) of the Academy of Natural Sciences of Drexel University.
 
