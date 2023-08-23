@@ -31,7 +31,7 @@ As a teaching assistant for five semesters, I have had the opportunity to work w
 
 - *Graduate Mentor* to a University of Delaware Geology major (now a PhD student at the University of British Columbia), who worked as an undergraduate research assistant during Summer 2019
 - *Communications Director* (2017-2018) for the Penn Earth and Environmental Science Department Undergraduate Advisory Board, which consisted of planning and promoting educational, social, and career-related events to facilitate undergraduate interest and involvement with the department.
-- *Vice President & Co-Founder* (2016-2018) of the Penn Geology Society, which involved promoting the geosciences at Penn by planning field trips and events, and participating in university-wide sustainability initiatives. I helped plan events such as *Chalk the Walk!* a public art and education exhibit, a scientific illustration workshop series, and various field trips to Wissahickon Valley Park, Philadelphia, Palisades Park and beaches in New Jersey, and the Academy of Natural Sciences of Drexel University. 
+- *Vice President & Co-Founder* (2016-2018) of the Penn Geology Society, which involved promoting the geosciences at Penn by planning field trips and events, and participating in university-wide sustainability initiatives. I helped plan events such as *Chalk the Walk!* a public art and education exhibit, a scientific illustration workshop series, and various field trips to Wissahickon Valley Park in Philadelphia, Palisades Park and beaches in New Jersey, and the Academy of Natural Sciences of Drexel University. 
 
 ![Photo of a group of students.](/images/Wissahickon.jpg)
 *Discussing features of the landscape at Wissahickon Valley Park, Philadelphia*
