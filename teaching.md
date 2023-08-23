@@ -8,7 +8,7 @@ menuorder: 3
 
 #### Penn State Brandywine, Adjunct Instructor
 As an adjunct instructor, I have primarily worked with students in virtual learning settings due to Covid-19 precautions. I encourage remote learning by developing and evaluating assignments and exams to be completed virtually, holding weekly office hours in Zoom, answering student questions using Canvas discussions, and providing timely feedback on student work through Canvas.
-##### Courses Taught
+**Courses Taught**
 - EARTH 111: Water: Science and Society - *Spring 2022*
 - GEOG 3N: Future of Food – *Fall 2021*
 - EARTH 100: Environment Earth – *Fall 2020, Spring 2021*
