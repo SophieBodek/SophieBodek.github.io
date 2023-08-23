@@ -14,9 +14,9 @@ Based on well-developed hydraulic geometry relations for width and depth, classi
 <!--[<img src="/images/WCC_survey.jpeg" width="400"/>.cropped { width: 150px; height: 150px; overflow: hidden; } .cropped img { margin: -150px 0px 0px -150px; }](/images/WCC_survey.jpeg)-->
 <img
   src="/images/WCC_survey.jpeg"
-  width="600"
-  height="337"
-  style="width: 300px; height: 50px; object-fit: cover;"
+  width="800"
+  height="400"
+  style="width: 800px; height: 50px; object-fit: cover;"
   alt="Sample image of a tutle riding on top of an alligator that is swimming in the water - scaled to 300 x 337."
 />
 
