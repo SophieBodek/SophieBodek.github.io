@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching Experiences
+title: Teaching
 excerpt: 
 menutitle: Teaching
 menuorder: 3
@@ -9,11 +9,11 @@ menuorder: 3
 
 Here are some teaching experiences I've had!
 
-## Adjunct Instruction
+### Adjunct Instruction
 
 As an adjunct instructor, I have primarily worked with students in virtual learning settings due to Covid-19 precautions. I encourage remote learning by developing and evaluating assignments and exams to be completed virtually, holding weekly office hours in Zoom, answering student questions using Canvas discussions, and providing timely feedback on student work through Canvas.
 
-## Teaching Assistantships
+### Teaching Assistantships
 
 As a teaching assistant for five semesters, I have had the opportunity to work with students in a variety of learning environments, such as lecturing during weekly recitations, answering questions in an active learning classroom, or leading discussions in during weekly laboratory sections. Additionally, I have led students on local field trips to explore weathering and erosion, soil profiles, stratigraphy, and geomorphology of the White Clay Creek watershed for both Surficial Processes and introductory geology classes at the University of Delaware.
 
