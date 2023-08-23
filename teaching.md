@@ -1,9 +1,11 @@
 ---
 layout: page
+title: Teaching Experiences
 excerpt: 
 menutitle: Teaching
 menuorder: 3
 ---
+
 
 Here are some teaching experiences I've had!
 
