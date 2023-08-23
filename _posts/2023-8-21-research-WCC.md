@@ -20,7 +20,7 @@ This project was supported by the Delaware Watershed Research Fund (Award #DWRF-
 
 #### Thesis
 
-**Bodek, S.** (2020). Is the White Clay Creek a threshold channel? Evaluating bed-mobility of a gravel-bed river in Pennsylvania, U.S.A. (Master’s thesis). Newark, DE: University of Delaware. [doi.org/10.6084/m9.figshare.14551290.v1](https://doi.org/10.6084/m9.figshare.14551290.v1)
+**Bodek, S.** (2020). Is the White Clay Creek a Threshold Channel? Evaluating Bed Mobility of a Gravel-Bed River in Pennsylvania, U.S.A. (Master’s thesis). Newark, DE: University of Delaware. [doi.org/10.6084/m9.figshare.14551290.v1](https://doi.org/10.6084/m9.figshare.14551290.v1)
 
 #### Conference Abstracts
 
