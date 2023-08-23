@@ -14,7 +14,7 @@ Based on well-developed hydraulic geometry relations for width and depth, classi
 <!--[<img src="/images/WCC_survey.jpeg" width="400"/>.cropped { width: 150px; height: 150px; overflow: hidden; } .cropped img { margin: -150px 0px 0px -150px; }](/images/WCC_survey.jpeg)-->
 <img
   src="/images/WCC_survey.jpeg"
-  style="width: 300px; height: 337px; object-fit: cover;"
+  style="width: 100%; object-fit: cover;"
 />
 
 This project was supported by the Delaware Watershed Research Fund (Award #DWRF-16-109) of the Academy of Natural Sciences of Drexel University.
