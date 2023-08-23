@@ -14,9 +14,11 @@ Based on well-developed hydraulic geometry relations for width and depth, classi
 <!--[<img src="/images/WCC_survey.jpeg" width="400"/>.cropped { width: 150px; height: 150px; overflow: hidden; } .cropped img { margin: -150px 0px 0px -150px; }](/images/WCC_survey.jpeg)-->
 <img
   src="/images/WCC_survey.jpeg"
-  .cropped-image-clip-rectangle {
+  .image-box {
+    position: relative;
     width: 100%;
-    clip-path: inset(20px 50px 10px 0 round 50px);
+    height: 0;
+    padding-top: calc(100% * (100 / 300));
   }
   <!--width="1000"
   height="800"
