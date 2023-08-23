@@ -14,6 +14,6 @@ I then earned a M.S. in Geology from the University of Delaware in 2020, where I
 In between graduating with my master's degree and starting a PhD in 2022, I taught at Penn State Brandywine as an adjunct instructor of Earth Sciences for four semesters. I also worked as a consultant in the environmental due diligence space. After living on the East Coast for a quarter-century, I enjoy spending time exploring my new California home. 
 
 ![At Natural Bridges SB.](/images/banner_4.jpg)
-*Enjoying the sea at Natural Bridges State Beach, Santa Cruz*
+*Enjoying views of the sunset and the Golden Gate Bridge*
 
 
