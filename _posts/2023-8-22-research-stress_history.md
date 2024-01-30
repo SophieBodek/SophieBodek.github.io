@@ -13,8 +13,6 @@ Bedload transport occurs when the shear stress, or non-dimensional Shields stres
 ![experimental apparatus](/images/clam_flume.jpg)
 *Experimental apparatus consisting of a rotating bed of sand in a flume at the Stanford Environmental Fluid Mechanics Lab. Instrumentation includes an ADV profiler and a camera imaging the bed from above.*
 
-This project is supported by the Army Research Office (ARO).
+This project is supported by the Army Research Office (ARO Award #W911NF-23-1-0032).
 
-
-
-
+**Bodek, S.**, Ouellette, N.T. "How does flow history impact the threshold of motion? Strengthening and weakening in directionally varied flows." American Geophysical Union (AGU) Fall Meeting, San Francisco, CA, 11-15 December 2023, Poster.
