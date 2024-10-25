@@ -15,7 +15,10 @@ As an adjunct instructor, I developed a general education syllabus focused on Ea
 - EARTH 100: Environment Earth – *Fall 2020, Spring 2021*
 
 ### Teaching Assistantships
-As a teaching assistant for five semesters, I have had the opportunity to work with students in a variety of learning environments, such as lecturing during weekly recitations, answering questions in an active learning classroom, or leading discussions in during weekly laboratory sections. Additionally, I have led students on local field trips to explore weathering and erosion, soil profiles, stratigraphy, and geomorphology of the White Clay Creek watershed for both Surficial Processes and introductory geology classes at the University of Delaware.
+As a teaching assistant for over five semesters, I have had the opportunity to work with students in a variety of learning environments, such as lecturing during weekly recitations, answering questions in an active learning classroom, or leading discussions in during weekly laboratory sections. Additionally, I have led students on local field trips to explore weathering and erosion, soil profiles, stratigraphy, and geomorphology of the White Clay Creek watershed for both Surficial Processes and introductory geology classes at the University of Delaware.
+
+**Courses Taught at Stanford University**
+- CEE 262E: Rivers, Streams, and Canals - *Spring 2024*
 
 **Courses Taught at the University of Delaware**
 - GEOL 203: Surficial Processes – *Spring 2020*
@@ -27,11 +30,12 @@ As a teaching assistant for five semesters, I have had the opportunity to work w
 
 -----------
 
-## Mentoring and Engagement
+## Mentoring
 
+- **Graduate Mentor** to a Stanford University undergraduate through the Sustainability, Engineering, and Science Undergraduate Research (SESUR) program during Summer 2024
 - **Graduate Mentor** to a University of Delaware Geology major (now a PhD student at the University of British Columbia), who worked as an undergraduate research assistant during Summer 2019
-- **Communications Director** (2017-2018) for the Penn Earth and Environmental Science Department Undergraduate Advisory Board, which consisted of planning and promoting educational, social, and career-related events to facilitate undergraduate interest and involvement with the department.
-- **Vice President & Co-Founder** (2016-2018) of the Penn Geology Society, which involved promoting the geosciences at Penn by planning field trips and events, and participating in university-wide sustainability initiatives. I helped plan events such as *Chalk the Walk!* a public art and education exhibit, a scientific illustration workshop series, and various field trips to Wissahickon Valley Park in Philadelphia, Palisades Park and beaches in New Jersey, and the Academy of Natural Sciences of Drexel University. 
+<!--- **Communications Director** (2017-2018) for the Penn Earth and Environmental Science Department Undergraduate Advisory Board, which consisted of planning and promoting educational, social, and career-related events to facilitate undergraduate interest and involvement with the department.-->
+<!--- **Vice President & Co-Founder** (2016-2018) of the Penn Geology Society, which involved promoting the geosciences at Penn by planning field trips and events, and participating in university-wide sustainability initiatives. I helped plan events such as *Chalk the Walk!* a public art and education exhibit, a scientific illustration workshop series, and various field trips to Wissahickon Valley Park in Philadelphia, Palisades Park and beaches in New Jersey, and the Academy of Natural Sciences of Drexel University. -->
 
 ![Photo of a group of students.](/images/Wissahickon.jpg)
 *Discussing features of the landscape at Wissahickon Valley Park, Philadelphia*
