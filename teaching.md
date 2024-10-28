@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 excerpt: 
-menutitle: Teaching
+menutitle: Teaching & Outreach
 menuorder: 3
 ---
 
