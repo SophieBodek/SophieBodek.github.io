@@ -32,10 +32,10 @@ As a teaching assistant for over five semesters, I have had the opportunity to w
 
 ## Mentoring
 
-- **Graduate Mentor** to a Stanford University undergraduate through the [Sustainability, Engineering, and Science Undergraduate Research](https://news.stanford.edu/stories/2024/08/meet-students-who-spent-their-summer-pursuing-sustainability-research) (SESUR) program during Summer 2024
+- **Graduate Mentor** to a Stanford University undergraduate (undeclared major) through the [Sustainability, Engineering, and Science Undergraduate Research](https://news.stanford.edu/stories/2024/08/meet-students-who-spent-their-summer-pursuing-sustainability-research) (SESUR) program during Summer 2024
 - **Graduate Mentor** to a University of Delaware Geology major (now a PhD student at the University of British Columbia), who worked as an undergraduate research assistant during Summer 2019
 
-![Photo of a group of students.](/images/SESUR_pic.jpg)
+![Photo of flume work.](/images/SESUR_pic.jpg)
 *Setting up flume experiments with an undergraduate summer researcher [photo credit: Drew Bird Photography]*
 
 ------------
@@ -43,7 +43,7 @@ As a teaching assistant for over five semesters, I have had the opportunity to w
 ## Outreach & Engagement
 
 - **[Stanford Geokids](https://sustainability.stanford.edu/admissions-education/k-12-outreach/geokids)** (2024): volunteer for the Geokids program, which involves teaching 2nd graders about the rock cycle, minerals, and soils through interactive lessons and activities on Stanford's campus.
-- **Penn Geology Society** (2016-2018): was the vice president & co-founder of the Penn Geology Society, which involved promoting the geosciences at Penn by planning field trips and events, and participating in university-wide sustainability initiatives. I helped plan events such as *Chalk the Walk!* a public art and education exhibit, a scientific illustration workshop series, and various field trips to Wissahickon Valley Park in Philadelphia, Palisades Park and beaches in New Jersey, and the Academy of Natural Sciences of Drexel University.
+- **Penn Geology Society** (2016-2018): acted as vice president and co-founder of the Penn Geology Society, which involved promoting the geosciences at Penn by planning field trips and events, and participating in university-wide sustainability initiatives. I helped plan events such as *Chalk the Walk!* a public art and education exhibit, a scientific illustration workshop series, and various field trips to Wissahickon Valley Park in Philadelphia, Palisades Park and beaches in New Jersey, and the Academy of Natural Sciences of Drexel University.
 
 <!--- **Communications Director** (2017-2018) for the Penn Earth and Environmental Science Department Undergraduate Advisory Board, which consisted of planning and promoting educational, social, and career-related events to facilitate undergraduate interest and involvement with the department.-->
 <!--- **Vice President & Co-Founder** (2016-2018) of the Penn Geology Society, which involved promoting the geosciences at Penn by planning field trips and events, and participating in university-wide sustainability initiatives. I helped plan events such as *Chalk the Walk!* a public art and education exhibit, a scientific illustration workshop series, and various field trips to Wissahickon Valley Park in Philadelphia, Palisades Park and beaches in New Jersey, and the Academy of Natural Sciences of Drexel University. -->
