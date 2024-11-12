@@ -10,7 +10,7 @@ owner:
   avatar: academic_profile.jpg
   bio: "PhD Candidate in Civil and Environmental Engineering"
   location: "San Francisco Bay Area, CA"
-  affiliation: Stanford University
+  affiliation: "Stanford University"
   email: sbodek@stanford.edu #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: StreamofSophie #username
