@@ -8,8 +8,9 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Sophie Bodek
   avatar: academic_profile.jpg
-  bio: "PhD candidate in Civil and Environmental Engineering at Stanford University"
+  bio: "PhD Candidate in Civil and Environmental Engineering"
   location: "San Francisco Bay Area, CA"
+  affiliation: Stanford University
   email: sbodek@stanford.edu #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: StreamofSophie #username
