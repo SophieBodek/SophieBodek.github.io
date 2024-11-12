@@ -12,6 +12,9 @@
 
   <h3 itemprop="name">{{ author.name }}</h3>
   <p>{{ author.bio }}</p>
+  {% if author.affiliation %}
+        <p><i class="fa fa-fw fa-building-o"></i>{{ author.affiliation }}</p>
+  {% endif %}
   {% if author.email %}<a href="mailto:{{ author.email }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
   {% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>{% endif %}
   {% if author.bluesky %}<a href="https://bsky.app/profile/{{ author.bluesky }}" class="author-social" target="_blank"><i class="fa-brands fa-bluesky"></i> Bluesky</a>{% endif %}
