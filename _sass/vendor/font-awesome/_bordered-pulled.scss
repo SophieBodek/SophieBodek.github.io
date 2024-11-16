@@ -1,7 +1,7 @@
 // bordered + pulled icons
 // -------------------------
 
-.#{$fa-css-prefix}-border {
+/*.#{$fa-css-prefix}-border {
   border-color: var(--#{$fa-css-prefix}-border-color, #{$fa-border-color});
   border-radius: var(--#{$fa-css-prefix}-border-radius, #{$fa-border-radius});
   border-style: var(--#{$fa-css-prefix}-border-style, #{$fa-border-style});
@@ -17,24 +17,24 @@
 .#{$fa-css-prefix}-pull-right {
   float: right;
   margin-left: var(--#{$fa-css-prefix}-pull-margin, #{$fa-pull-margin}); 
-}
+}*/
 
 // Bordered & Pulled
 // -------------------------
 
-//.#{$fa-css-prefix}-border {
-//  padding: .2em .25em .15em;
-//  border: solid .08em $fa-border-color;
-//  border-radius: .1em;
-//}
+.#{$fa-css-prefix}-border {
+  padding: .2em .25em .15em;
+  border: solid .08em $fa-border-color;
+  border-radius: .1em;
+}
 
-//.#{$fa-css-prefix}-pull-left { float: left; }
-//.#{$fa-css-prefix}-pull-right { float: right; }
+.#{$fa-css-prefix}-pull-left { float: left; }
+.#{$fa-css-prefix}-pull-right { float: right; }
 
-//.#{$fa-css-prefix} {
-//  &.#{$fa-css-prefix}-pull-left { margin-right: .3em; }
-//  &.#{$fa-css-prefix}-pull-right { margin-left: .3em; }
-//}
+.#{$fa-css-prefix} {
+  &.#{$fa-css-prefix}-pull-left { margin-right: .3em; }
+  &.#{$fa-css-prefix}-pull-right { margin-left: .3em; }
+}
 
 /* Deprecated as of 4.4.0 */
 //.pull-right { float: right; }
