@@ -1,17 +1,7 @@
-// specific icon class definition
-// -------------------------
-
 /* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
-readers do not read off random characters that represent icons */
-
-@each $name, $icon in $fa-icons {
-  .#{$fa-css-prefix}-#{$name}::before { content: unquote("\"#{ $icon }\""); }
-}
-
-/*/* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
 
-/*.#{$fa-css-prefix}-glass:before { content: $fa-var-glass; }
+.#{$fa-css-prefix}-glass:before { content: $fa-var-glass; }
 .#{$fa-css-prefix}-music:before { content: $fa-var-music; }
 .#{$fa-css-prefix}-search:before { content: $fa-var-search; }
 .#{$fa-css-prefix}-envelope-o:before { content: $fa-var-envelope-o; }
@@ -704,4 +694,4 @@ readers do not read off random characters that represent icons */
 .#{$fa-css-prefix}-hashtag:before { content: $fa-var-hashtag; }
 .#{$fa-css-prefix}-bluetooth:before { content: $fa-var-bluetooth; }
 .#{$fa-css-prefix}-bluetooth-b:before { content: $fa-var-bluetooth-b; }
-.#{$fa-css-prefix}-percent:before { content: $fa-var-percent; }*/
+.#{$fa-css-prefix}-percent:before { content: $fa-var-percent; }
