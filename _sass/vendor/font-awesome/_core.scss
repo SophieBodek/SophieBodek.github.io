@@ -1,7 +1,7 @@
 // base icon class definition
 // -------------------------
 
-.#{$fa-css-prefix} {
+/*.#{$fa-css-prefix} {
   font-family: var(--#{$fa-css-prefix}-style-family, '#{$fa-style-family}');
   font-weight: var(--#{$fa-css-prefix}-style, #{$fa-style});
 }
@@ -40,9 +40,9 @@
 
 %fa-icon {
   @include fa-icon;
-}
+}*/
 
-/*// Base Class Definition
+// Base Class Definition
 // -------------------------
 
 .#{$fa-css-prefix} {
@@ -53,4 +53,4 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-}*/
+}
