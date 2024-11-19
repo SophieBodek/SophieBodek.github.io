@@ -225,7 +225,7 @@ pre {
 }
 
 .post-content.left-image img {
-  max-width: 250px;        /* Control image size (adjust as needed) */
+  max-width: 200px;        /* Control image size (adjust as needed) */
   height: auto;            /* Maintain aspect ratio */
 }
 
@@ -239,6 +239,13 @@ pre {
 .post-content p {
   margin-bottom: 20px;     /* Add space below the excerpt */
   flex-grow: 1;            /* Ensure the excerpt grows to take available space */
+}
+
+/* Flex container for image and excerpt in horizontal layout */
+.post-content-wrapper {
+  display: flex;             /* Arrange image and excerpt horizontally */
+  flex-direction: row;       /* Place image on the left and excerpt on the right */
+  align-items: flex-start;   /* Align items to the top */
 }
 
 /* Style for the post content wrapper */
