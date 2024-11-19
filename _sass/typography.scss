@@ -213,7 +213,13 @@ pre {
 /* Layout when the image is to the left of the title */
 .post-content.left-image {
   display: flex;           /* Use flexbox to arrange items horizontally */
-  align-items: center;     /* Vertically align the items */
+  align-items: flex-start; /* Align items to the top */
+  margin-bottom: 20px;     /* Space at the bottom of each post */
+}
+
+.post-content.left-image .post-content-wrapper {
+  display: flex;           /* Horizontally arrange image and excerpt */
+  align-items: flex-start; /* Align image and text to the top */
 }
 
 .post-content.left-image .post-image {
@@ -235,4 +241,12 @@ pre {
 /* Style for the post excerpt */
 .post-content p {
   margin-bottom: 20px;     /* Add space below the excerpt */
+  flex-grow: 1;            /* Ensure the excerpt grows to take available space */
+}
+
+/* Style for the post content wrapper */
+.post-content-wrapper {
+  display: flex;           /* Flexbox container to hold image and excerpt */
+  flex-direction: row;     /* Ensure elements are placed horizontally */
+  align-items: flex-start; /* Align items to the top */
 }
