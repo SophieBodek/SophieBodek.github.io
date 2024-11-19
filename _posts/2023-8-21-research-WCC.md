@@ -2,8 +2,9 @@
 layout: post
 title: Transport of coarse sediment in Mid-Atlantic streams
 excerpt: "The White Clay Creek is a gravel-bed river with banks that consist of cohesive sediment, bedrock, and colluvium. It also has a long history of human impacts, such as mill damming. Results from monitoring coarse sediment transport lead us use the term 'semi-alluvial' to describe this creek."
-photo: /images/WCC_survey2.jpeg
-image_position: "vertical"  # Image below title
+photo: /images/research_pics/wcc_project_pics/semi-alluvial_model2.png
+image_position: "horizontal"  # Image below title
+image_width: "200px"  # Custom width for the image
 modified:
 tags:
 comments:
@@ -12,7 +13,7 @@ category: research
 
 Based on well-developed hydraulic geometry relations for width and depth, classic studies initially interpreted the Mid-Atlantic White Clay Creek (WCC) as a quasi-equilibrium, alluvial channel. Subsequent studies document the legacy of colonial-age watershed disturbances and urban development, confounding earlier classifications. To investigate this matter, we contribute new data from reach-scale geomorphic mapping, and observations and modeling of bed material transport. WCC’s longitudinal profile reflects a history of bedrock incision, while hydraulic geometry equations for width and depth indicate quasi-equilibrium cross-sectional adjustment. Alluvial landforms such as pools and riffles, bars, and actively forming floodplains occur at all 12 study sites, but exposures of bedrock and colluvium are also common. The ratio of bankfull to threshold Shields stress averages 1.41 (range 0.41-2.63), suggesting that WCC is an alluvial, threshold, gravel-bed river. However, a numerical model of WCC bed material transport and grain size, calibrated to bedload tracer data, demonstrates that 22% (range 8-73%) of bed material is composed of immobile, locally sourced cobbles and boulders, while the remaining bed material represents mobile, sand to cobble-sized alluvium; this leads us to classify WCC as a semi-alluvial river. Additional computations suggest that channel morphology is insensitive to bed material supply. Field observations imply that bankfull Shields stresses do not represent channel adjustments to achieve stable banks; rather, width adjustment likely reflects cohesive bank processes. Despite the numerous and contradictory labels applied to WCC (i.e., quasi-equilibrium, Anthropocene, bedrock, semi-alluvial, gravel-bed), each term contributes insight that any single conceptual model would be unable to provide alone.
 
-![standing in White Clay Creek.](/images/WCC_survey2.jpeg)
+![standing in White Clay Creek.](/images/research_pics/wcc_project_pics/WCC_survey2.jpeg)
 *Searching for RFID tags in the White Clay Creek*
 
 This project was supported by the Delaware Watershed Research Fund (Award #DWRF-16-109) of the Academy of Natural Sciences of Drexel University.
