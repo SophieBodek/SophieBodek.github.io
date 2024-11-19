@@ -242,6 +242,12 @@ pre {
   flex-grow: 1;            /* Ensure the excerpt grows to take available space */
 }
 
+/* Ensure text is justified and does not wrap around PNG images */
+.post-image.no-wrap {
+  float: none;               /* Prevent floating */
+  clear: both;               /* Ensure the text is not wrapping around the image */
+}
+
 /* Style for the post content wrapper */
 /*.post-content-wrapper {
   display: flex;           /* Flexbox container to hold image and excerpt */
