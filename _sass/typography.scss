@@ -212,8 +212,6 @@ pre {
 
 /* Layout when the image is to the left of the title */
 .post-content.left-image {
-  display: flex;           /* Use flexbox to arrange items horizontally */
-  align-items: flex-start; /* Align items to the top */
   margin-bottom: 20px;     /* Space at the bottom of each post */
 }
 
@@ -250,3 +248,4 @@ pre {
   flex-direction: row;     /* Ensure elements are placed horizontally */
   align-items: flex-start; /* Align items to the top */
 }
+
