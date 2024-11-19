@@ -33,17 +33,19 @@
           <h2 class="link-post"><a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
         {% else %}
           <div class="post-content">
+            <h2><a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
             {% if post.photo %}
               <div class="post-image">
-                <img src="{{ post.photo }}" alt="{{ post.title }}">
+                <a href="{{ site.github.url }}{{ post.url }}">
+                  <img src="{{ post.photo }}" alt="{{ post.title }}">
+                </a>
               </div>
             {% endif %}
-            <h2><a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
             <p>{{ post.excerpt | strip_html | truncate: 300 }}</p>
           </div>
         {% endif %}
       </article>
-      <!--<article>
+      <!--<article> ORIGINAL HTML CODE
         {% if post.link %}
           <h2 class="link-post"><a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
         {% else %}
