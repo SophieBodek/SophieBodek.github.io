@@ -44,7 +44,8 @@
                   </a>
                 </div>
               {% endif %}
-              <p>{{ post.excerpt | strip_html | truncate: 300 }}</p>
+              <!--<p>{{ post.excerpt | strip_html | truncate: 300 }}</p>-->
+              <p>{{ post.excerpt | strip_html | truncate: 300 }} <a href="{{ site.github.url }}{{ post.url }}" class="read-more-link">[<i>click to read more</i>i>]</a></p>
             </div>
             <!-- Full-width line below the excerpt -->
             <hr class="solid">
