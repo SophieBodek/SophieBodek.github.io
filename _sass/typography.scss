@@ -246,6 +246,7 @@ pre {
 .post-image.no-wrap {
   float: none;               /* Prevent floating */
   clear: both;               /* Ensure the text is not wrapping around the image */
+  width: 100%;               /* Ensure the image takes its full width */
 }
 
 /* Style for the post content wrapper */
