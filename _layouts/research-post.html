@@ -39,7 +39,7 @@
             <div class="post-content-wrapper">
               {% if post.photo %}
                 <!--<div class="post-image">-->
-                <div class="post-image" style="width: {{ post.image_width | default: '200px' }};">
+                <div class="post-image {% if is_png %}no-wrap{% endif %}" style="width: {{ post.image_width | default: '200px' }};">
                   <a href="{{ site.github.url }}{{ post.url }}">
                     <img src="{{ post.photo }}" alt="{{ post.title }}">
                   </a>
