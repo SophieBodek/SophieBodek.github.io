@@ -216,17 +216,21 @@ pre {
 }
 
 .post-content.left-image .post-content-wrapper {
-  display: flex;           /* Horizontally arrange image and excerpt */
-  align-items: flex-start; /* Align image and text to the top */
+  display: flex;             /* Use flexbox for horizontal arrangement */
+  align-items: flex-start;   /* Align image and text at the top */
+  flex-wrap: wrap;            /* Ensure the content wraps properly if needed */
 }
 
 .post-content.left-image .post-image {
-  margin-right: 20px;      /* Space between the image and text */
+  margin-right: 20px;        /* Space between image and text */
+  /* Allow for custom image width */
+  width: 100%;               /* Makes sure the image fills its container, but doesn't overflow */
+  max-width: 300px;          /* Custom maximum width for the image (can be adjusted as needed) */
 }
 
 .post-content.left-image img {
-  max-width: 300px;        /* Control image size (adjust as needed) */
-  height: auto;            /* Maintain aspect ratio */
+  height: auto;              /* Maintain aspect ratio */
+  width: 100%;               /* Ensure image fills the container without stretching */
 }
 
 /* Style for the post title */
