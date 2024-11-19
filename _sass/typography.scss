@@ -204,6 +204,12 @@ pre {
    Research page - layout for research post images and excerpts
    ========================================================================== */
 
+/* Default layout: photo below title */
+.post-content.stacked-image {
+  display: block;          /* Default stacking of elements */
+  margin-bottom: 20px;     /* Space at the bottom of each post */
+}
+
 /* Layout when the image is to the left of the title */
 .post-content.left-image {
   display: flex;           /* Use flexbox to arrange items horizontally */
