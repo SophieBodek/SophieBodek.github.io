@@ -2,7 +2,7 @@
 layout: post
 title: Particle breakdown through chipping and fragmentation
 excerpt: "River rocks become rounded into smooth pebbles when transported as bedload, but other rocks become rough and angular when transported by landslides or rock falls. In this study, we attempt to experimentally delineate the transition between low-energy chipping and high-energy fragmentation."
-photo: !(/images/big_chart_v6.jpg)
+photo: /images/big_chart_v6.jpg
 modified: 
 tags: 
 comments:
