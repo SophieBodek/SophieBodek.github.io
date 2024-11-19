@@ -237,6 +237,7 @@ pre {
 
 /* Style for the post excerpt */
 .post-content p {
+  margin-top: 10px;
   margin-bottom: 20px;     /* Add space below the excerpt */
   flex-grow: 1;            /* Ensure the excerpt grows to take available space */
 }
