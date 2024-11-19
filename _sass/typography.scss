@@ -191,3 +191,42 @@ pre {
 	line-height: 1.5;
 	overflow-x: auto;
 }
+
+
+
+/* Default layout: photo below title */
+.post-content {
+  display: block;          /* Default stacking of elements */
+  margin-bottom: 20px;     /* Space at the bottom of each post */
+}
+
+/*
+   Research page - layout for research post images and excerpts
+   ========================================================================== */
+
+/* Layout when the image is to the left of the title */
+.post-content.left-image {
+  display: flex;           /* Use flexbox to arrange items horizontally */
+  align-items: center;     /* Vertically align the items */
+}
+
+.post-content.left-image .post-image {
+  margin-right: 20px;      /* Space between the image and text */
+}
+
+.post-content.left-image img {
+  max-width: 150px;        /* Control image size (adjust as needed) */
+  height: auto;            /* Maintain aspect ratio */
+  border-radius: 8px;      /* Optional: add rounded corners to the image */
+}
+
+/* Style for the post title */
+.post-content h2 {
+  margin-bottom: 15px;     /* Add space below the title */
+  font-size: 1.5em;        /* Increase title size for better readability */
+}
+
+/* Style for the post excerpt */
+.post-content p {
+  margin-bottom: 20px;     /* Add space below the excerpt */
+}
