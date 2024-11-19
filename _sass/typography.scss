@@ -247,9 +247,3 @@ pre {
   /*flex-direction: row;     /* Ensure elements are placed horizontally */
   /*align-items: flex-start; /* Align items to the top */
 /*}*/
-/* Flex container for image and excerpt in horizontal layout */
-.post-content-wrapper {
-  display: flex;             /* Arrange image and excerpt horizontally */
-  flex-direction: row;       /* Place image on the left and excerpt on the right */
-  align-items: flex-start;   /* Align items to the top */
-}
