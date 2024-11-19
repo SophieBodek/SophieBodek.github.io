@@ -28,22 +28,26 @@
         <!--<h3>{{ year }}</h3>-->
         {% capture written_year %}{{ year }}{% endcapture %}
       {% endif %}
-<article>
+      <article>
         {% if post.link %}
           <h2 class="link-post"><a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
         {% else %}
           <div class="post-content {% if post.image_position == 'horizontal' %}left-image{% else %}stacked-image{% endif %}">
+            <!-- Post Title -->
             <h2><a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-            {% if post.photo %}
-              <div class="post-image">
-                <a href="{{ site.github.url }}{{ post.url }}">
-                  <img src="{{ post.photo }}" alt="{{ post.title }}">
-                </a>
-              </div>
-            {% endif %}
-            <p>{{ post.excerpt | strip_html | truncate: 300 }}</p>
+            <!-- Post Image and Excerpt -->
+            <div class="post-content-wrapper">
+              {% if post.photo %}
+                <div class="post-image">
+                  <a href="{{ site.github.url }}{{ post.url }}">
+                    <img src="{{ post.photo }}" alt="{{ post.title }}">
+                  </a>
+                </div>
+              {% endif %}
+              <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+            </div>
             <!-- Full-width line below the excerpt -->
-            <hr class="solid">
+            <hr class="post-excerpt-divider">
           </div>
         {% endif %}
       </article>
