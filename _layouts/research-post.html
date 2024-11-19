@@ -42,6 +42,8 @@
               </div>
             {% endif %}
             <p>{{ post.excerpt | strip_html | truncate: 300 }}</p>
+            <!-- Full-width line below the excerpt -->
+            <hr class="solid">
           </div>
         {% endif %}
       </article>
