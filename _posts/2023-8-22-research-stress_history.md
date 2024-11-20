@@ -17,7 +17,12 @@ Bedload transport occurs when the shear stress, or non-dimensional Shields stres
 ![performing flume work](/images/research_pics/stress_hist_proj_pics/flume_work.JPG)
 *Adjusting an instrument in the flume at the Bob & Norma Street Environmental Fluid Mechanics Lab [photo credit: Drew Bird Photography]*
 
-This project is supported by the Army Research Office (ARO Award #W911NF-23-1-0032).
+This project is supported by the Army Research Office (ARO Award #W911NF-23-1-0032). This research is conducted in experimental facilities within the Bob & Norma Street Environmental Fluid Mechanics Lab at Stanford University.
+<p align="center">
+  <img src="/images/research_pics/logos/ARO.png" width="25%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="/images/research_pics/logos/EFML.png" width="40%" /> 
+</p>
 
 #### Conference Abstracts
 
