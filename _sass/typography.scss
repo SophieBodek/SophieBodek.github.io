@@ -233,6 +233,12 @@ pre {
   height: auto;            /* Maintain aspect ratio */
 }
 
+/* No wrap for PNG images */
+.post-content.left-image .post-image.no-wrap img {
+  display: block;                /* Prevent text from wrapping */
+  margin-right: 0;               /* Ensure no margin when image is PNG */
+}
+
 /* Style for the post title */
 .post-content h2 {
   margin-bottom: 15px;     /* Add space below the title */
