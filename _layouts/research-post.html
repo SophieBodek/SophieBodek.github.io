@@ -37,10 +37,8 @@
             <h2><a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
             <!-- Post Content Wrapper: Image and Excerpt -->
             <div class="post-content-wrapper">
-              {% if post.photo %}
-                <!--<div class="post-image">-->
-                {% assign is_png = post.photo | split: '.' | last == 'png' %}
-                <div class="post-image {% if is_png %}no-wrap{% endif %}" style="width: {{ post.image_width | default: '200px' }};">
+               {% if post.photo %}
+                <div class="post-image" style="width: {{ post.image_width | default: '250px' }};">
                   <a href="{{ site.github.url }}{{ post.url }}">
                     <img src="{{ post.photo }}" alt="{{ post.title }}">
                   </a>
