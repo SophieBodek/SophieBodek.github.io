@@ -223,11 +223,6 @@ pre {
 
 .post-content.left-image .post-image {
   margin-right: 20px;        /* Space between image and text */
-  height: auto;
-  width: 200px;
-  /* Allow for custom image width */
-  /*width: 100%;               /* Makes sure the image fills its container, but doesn't overflow */
-  /*max-width: 300px;          /* Custom maximum width for the image (can be adjusted as needed) */
 }
 
 .post-content.left-image img {
@@ -242,24 +237,12 @@ pre {
   /*width: 100%;               /* Ensure the image takes its full width */
 /*}*/
 
-.post-content.left-image .post-image.no-wrap {
-  float: none;               /* Prevent floating */
-  clear: both;               /* Ensure the text is not wrapping around the image */
-}
-
-/* Flex container for image and excerpt in horizontal layout */
-.post-content-wrapper {
-  display: flex;             /* Arrange image and excerpt horizontally */
-  flex-direction: row;       /* Place image on the left and excerpt on the right */
-  align-items: flex-start;   /* Align items to the top */
-  gap: 20px;                 /* Add space between the image and text */
-}
-
 /* Style for the post content wrapper */
 /*.post-content-wrapper {
   display: flex;           /* Flexbox container to hold image and excerpt */
   /*flex-direction: row;     /* Ensure elements are placed horizontally */
   /*align-items: flex-start; /* Align items to the top */
+  /*gap: 20px;                 /* Add space between the image and text */
 /*}*/
 
 
