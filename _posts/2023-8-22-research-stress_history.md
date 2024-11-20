@@ -19,7 +19,7 @@ Bedload transport occurs when the shear stress, or non-dimensional Shields stres
 
 This project is supported by the Army Research Office (ARO Award #W911NF-23-1-0032). This research is conducted in experimental facilities within the Bob & Norma Street Environmental Fluid Mechanics Lab at Stanford University.
 <p align="center">
-  <img src="/images/research_pics/logos/ARO.png" width="17%" />
+  <img src="/images/research_pics/logos/ARO.png" width="15%" />
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="/images/research_pics/logos/EFML.png" width="40%" /> 
 </p>
