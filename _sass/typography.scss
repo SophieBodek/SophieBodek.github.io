@@ -203,6 +203,11 @@ pre {
 /*
    Research page - layout for research post images and excerpts
    ========================================================================== */
+/* Style for the post title */
+.post-content h2 {
+  margin-bottom: 25px;     /* Add space below the title */
+}
+
 /* --------------------- DEFAULT LAYOUT --------------------*/
 /* Default layout: photo below title */
 .post-content.stacked-image {
