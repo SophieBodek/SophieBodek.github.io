@@ -213,6 +213,7 @@ pre {
 /* Optional: For stacked images, keep default layout */
 .post-content.stacked-image .post-image {
   width: 100%; /* Make image full width */
+  margin-top: 20px; /* Space between image and above title */
   margin-bottom: 20px; /* Add space between image and text */
 }
 
@@ -222,10 +223,25 @@ pre {
 
 /* --------------------- DEFAULT LAYOUT --------------------*/
 /* Layout when the image is to the left of the title */
-/*.post-content.left-image {
-/*  margin-bottom: 20px;     /* Space at the bottom of each post */
+.post-content.left-image {
+  margin-bottom: 20px;     /* Space at the bottom of each post */
+}
+
+.post-content.left-image .post-image {
+  margin-right: 20px;      /* Space between the image and text */
+*}
+
+.post-content.left-image .post-content-wrapper {
+  display: flex;           /* Horizontally arrange image and excerpt */
+  align-items: flex-start; /* Align image and text to the top */
+}
+
+/*.post-content.left-image img {
+/*  max-width: 300px;        /* Control image size (adjust as needed) */
+/*  height: auto;            /* Maintain aspect ratio */
 /*}
 
+/* ---------- NEW STUFF
 /* Base styles for the post content wrapper */
 /*.post-content {
   display: flex;
