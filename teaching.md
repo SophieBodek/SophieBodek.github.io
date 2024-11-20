@@ -35,7 +35,7 @@ As a teaching assistant for over five semesters, I have had the opportunity to w
 - **Graduate Mentor** to a Stanford University undergraduate (undeclared major) through the [Sustainability, Engineering, and Science Undergraduate Research](https://news.stanford.edu/stories/2024/08/meet-students-who-spent-their-summer-pursuing-sustainability-research) (SESUR) program during Summer 2024
 - **Graduate Mentor** to a University of Delaware Geology major (now a PhD student at the University of British Columbia), who worked as an undergraduate research assistant during Summer 2019
 
-![Photo of flume work.](/images/SESUR_pic.jpg)
+![Photo of flume work.](/images/research_pics/stress_hist_proj_pics/SESUR_pic.jpg)
 *Setting up flume experiments with an undergraduate summer researcher [photo credit: Drew Bird Photography]*
 
 ------------
