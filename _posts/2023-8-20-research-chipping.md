@@ -19,6 +19,8 @@ As rocks are transported, they primarily undergo two breakdown mechanisms: chipp
 
 This research has been supported by the University of Pennsylvania Center for Undergraduate Research and Fellowships (CURF) and the Hayden Scholars program of the University of Pennsylvania Department of Earth and Environmental Science.
 
+![Penn CURF logo](/images/research_pics/logos/Penn_CURF.png "logo-1" =50%x) ![Penn EES logo](/images/research_pics/logos/Penn_EES.png "logo-2" =50%x)
+
 #### Publications
 
 **Bodek, S.** and Jerolmack, D.J. (2021) "Breaking down chipping and fragmentation in sediment transport: the control of material strength." *Earth Surface Dynamics, 9*, 1531-1543. [doi.org/10.5194/esurf-9-1531-2021](https://esurf.copernicus.org/articles/9/1531/2021/)
