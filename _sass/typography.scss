@@ -204,6 +204,10 @@ pre {
    Research page - layout for research post images and excerpts
    ========================================================================== */
 
+/*
+   Research page - layout for research post images and excerpts
+   ========================================================================== */
+
 /* Default layout: photo below title */
 .post-content.stacked-image {
   display: block;          /* Default stacking of elements */
@@ -216,35 +220,18 @@ pre {
 }
 
 .post-content.left-image .post-content-wrapper {
-  display: flex;             /* Use flexbox for horizontal arrangement */
-  align-items: flex-start;   /* Align image and text at the top */
-  gap: 20px;                 /* Add space between the image and text */
+  display: flex;           /* Horizontally arrange image and excerpt */
+  align-items: flex-start; /* Align image and text to the top */
 }
 
 .post-content.left-image .post-image {
-  margin-right: 20px;        /* Space between image and text */
+  margin-right: 20px;      /* Space between the image and text */
 }
 
 .post-content.left-image img {
-  height: auto;              /* Maintain aspect ratio */
-  width: 100%;               /* Ensure image fills the container without stretching */
+  max-width: 300px;        /* Control image size (adjust as needed) */
+  height: auto;            /* Maintain aspect ratio */
 }
-
-/* Ensure text is justified and does not wrap around PNG images */
-/*.post-image.no-wrap {
-  float: none;               /* Prevent floating */
-  /*clear: both;               /* Ensure the text is not wrapping around the image */
-  /*width: 100%;               /* Ensure the image takes its full width */
-/*}*/
-
-/* Style for the post content wrapper */
-/*.post-content-wrapper {
-  display: flex;           /* Flexbox container to hold image and excerpt */
-  /*flex-direction: row;     /* Ensure elements are placed horizontally */
-  /*align-items: flex-start; /* Align items to the top */
-  /*gap: 20px;                 /* Add space between the image and text */
-/*}*/
-
 
 /* Style for the post title */
 .post-content h2 {
@@ -258,3 +245,10 @@ pre {
   margin-bottom: 20px;     /* Add space below the excerpt */
   flex-grow: 1;            /* Ensure the excerpt grows to take available space */
 }
+
+/* Style for the post content wrapper */
+/*.post-content-wrapper {
+  display: flex;           /* Flexbox container to hold image and excerpt */
+  /*flex-direction: row;     /* Ensure elements are placed horizontally */
+  /*align-items: flex-start; /* Align items to the top */
+/*}*/
