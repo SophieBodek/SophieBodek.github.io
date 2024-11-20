@@ -17,7 +17,7 @@ Based on well-developed hydraulic geometry relations for width and depth, classi
 *Searching for RFID tags in the White Clay Creek*
 
 This project was supported by the Delaware Watershed Research Fund (Award #DWRF-16-109) of the Academy of Natural Sciences of Drexel University.
-<p float="center">
+<p align="center">
   <img src="/images/research_pics/logos/DWRF2.png" width="40%" />
 </p>
 
