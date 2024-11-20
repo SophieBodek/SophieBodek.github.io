@@ -204,55 +204,91 @@ pre {
    Research page - layout for research post images and excerpts
    ========================================================================== */
 
+/* Base styles for the post content wrapper */
+.post-content {
+  display: flex;
+  align-items: flex-start; /* Align items to the top */
+  flex-wrap: wrap; /* Ensure the items wrap properly */
+  margin-bottom: 20px; /* Add some space below each post */
+}
+
+/* If the image position is horizontal */
+.left-image .post-image {
+  margin-right: 20px; /* Space between the image and the text */
+}
+
+.left-image .post-image img {
+  width: 200px; /* Set the image width, adjust as needed */
+  height: auto; /* Maintain aspect ratio */
+}
+
+/* The text content should start after the image, so we apply padding-left to avoid overlap */
+.left-image .post-content-wrapper p {
+  margin-left: 220px; /* Offset text to the right of the image (image width + margin) */
+  /* Alternatively, use padding-left if you want space inside the paragraph */
+  padding-left: 20px; /* Adds space inside the text container */
+}
+
+/* Optional: For stacked images, keep default layout */
+.stacked-image .post-image {
+  width: 100%; /* Make image full width */
+  margin-bottom: 20px; /* Add space between image and text */
+}
+
+.stacked-image .post-content-wrapper p {
+  padding-left: 0; /* No offset for stacked layout */
+}
+
+
 /*
    Research page - layout for research post images and excerpts
    ========================================================================== */
 
 /* Default layout: photo below title */
-.post-content.stacked-image {
+/*.post-content.stacked-image {
   display: block;          /* Default stacking of elements */
-  margin-bottom: 20px;     /* Space at the bottom of each post */
-}
+/*  margin-bottom: 20px;     /* Space at the bottom of each post */
+/*}
 
 /* Layout when the image is to the left of the title */
-.post-content.left-image {
-  margin-bottom: 20px;     /* Space at the bottom of each post */
-}
+/*.post-content.left-image {
+/*  margin-bottom: 20px;     /* Space at the bottom of each post */
+/*}
 
 .post-content.left-image .post-content-wrapper {
   display: flex;           /* Horizontally arrange image and excerpt */
-  align-items: flex-start; /* Align image and text to the top */
-}
+/*  align-items: flex-start; /* Align image and text to the top */
+/*}
 
 .post-content.left-image .post-image {
   margin-right: 20px;      /* Space between the image and text */
-}
+/*}
 
 .post-content.left-image img {
   max-width: 300px;        /* Control image size (adjust as needed) */
-  height: auto;            /* Maintain aspect ratio */
-}
+/*  height: auto;            /* Maintain aspect ratio */
+/*}
 
 /* No wrap for PNG images */
-.post-content.left-image .post-image.no-wrap img {
+/*.post-content.left-image .post-image.no-wrap img {
   display: block;                /* Prevent text from wrapping */
-  margin-right: 0;               /* Ensure no margin when image is PNG */
-}
+/*  margin-right: 0;               /* Ensure no margin when image is PNG */
+/*}
 
 /* Style for the post title */
-.post-content h2 {
+/*.post-content h2 {
   margin-bottom: 15px;     /* Add space below the title */
-  font-size: 1.5em;        /* Increase title size for better readability */
-}
+/*  font-size: 1.5em;        /* Increase title size for better readability */
+/*}
 
 /* Style for the post excerpt */
-.post-content p {
+/*.post-content p {
   margin-top: 10px;
   margin-bottom: 20px;     /* Add space below the excerpt */
-  flex-grow: 1;            /* Ensure the excerpt grows to take available space */
-}
+/*  flex-grow: 1;            /* Ensure the excerpt grows to take available space */
+/*}
 
-/* Style for the post content wrapper */
+/* Style for the post content wrapper ---> KEEP THIS COMMENTED OFF*/ 
 /*.post-content-wrapper {
   display: flex;           /* Flexbox container to hold image and excerpt */
   /*flex-direction: row;     /* Ensure elements are placed horizontally */
