@@ -226,7 +226,7 @@ pre {
   height: auto;
   /* Allow for custom image width */
   /*width: 100%;               /* Makes sure the image fills its container, but doesn't overflow */
-  /*max-width: 300px;          /* Custom maximum width for the image (can be adjusted as needed) */
+  max-width: 300px;          /* Custom maximum width for the image (can be adjusted as needed) */
 }
 
 .post-content.left-image img {
