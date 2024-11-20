@@ -195,49 +195,71 @@ pre {
 
 
 /* Default layout: photo below title */
-.post-content {
-  display: block;          /* Default stacking of elements */
-  margin-bottom: 20px;     /* Space at the bottom of each post */
-}
+/*.post-content {
+/*  display: block;          /* Default stacking of elements */
+/*  margin-bottom: 20px;     /* Space at the bottom of each post */
+/*}
 
 /*
    Research page - layout for research post images and excerpts
    ========================================================================== */
-
-/* Base styles for the post content wrapper */
-.post-content {
-  display: flex;
-  align-items: flex-start; /* Align items to the top */
-  flex-wrap: wrap; /* Ensure the items wrap properly */
-  margin-bottom: 20px; /* Add some space below each post */
-}
-
-/* If the image position is horizontal */
-.left-image .post-image {
-  margin-right: 20px; /* Space between the image and the text */
-}
-
-.left-image .post-image img {
-  width: 200px; /* Set the image width, adjust as needed */
-  height: auto; /* Maintain aspect ratio */
-}
-
-/* The text content should start after the image, so we apply padding-left to avoid overlap */
-.left-image .post-content-wrapper p {
-  margin-left: 220px; /* Offset text to the right of the image (image width + margin) */
-  /* Alternatively, use padding-left if you want space inside the paragraph */
-  padding-left: 20px; /* Adds space inside the text container */
+/* --------------------- DEFAULT LAYOUT --------------------*/
+/* Default layout: photo below title */
+.post-content.stacked-image {
+  display: block;          /* Default stacking of elements */
+  margin-bottom: 20px;     /* Space at the bottom of each post */
 }
 
 /* Optional: For stacked images, keep default layout */
-.stacked-image .post-image {
+.post-content.stacked-image .post-image {
   width: 100%; /* Make image full width */
   margin-bottom: 20px; /* Add space between image and text */
 }
 
 .stacked-image .post-content-wrapper p {
   padding-left: 0; /* No offset for stacked layout */
-}
+/*}
+
+/* --------------------- DEFAULT LAYOUT --------------------*/
+/* Layout when the image is to the left of the title */
+/*.post-content.left-image {
+/*  margin-bottom: 20px;     /* Space at the bottom of each post */
+/*}
+
+/* Base styles for the post content wrapper */
+/*.post-content {
+  display: flex;
+  align-items: flex-start; /* Align items to the top */
+/*  flex-wrap: wrap; /* Ensure the items wrap properly */
+/*  margin-bottom: 20px; /* Add some space below each post */
+/*}
+
+/* If the image position is horizontal */
+/*.left-image .post-image {
+  margin-right: 20px; /* Space between the image and the text */
+/*}
+
+/*.left-image .post-image img {
+  width: 200px; /* Set the image width, adjust as needed */
+/*  height: auto; /* Maintain aspect ratio */
+/*}
+
+/* The text content should start after the image, so we apply padding-left to avoid overlap */
+/*.left-image .post-content-wrapper p {
+  margin-left: 220px; /* Offset text to the right of the image (image width + margin) */
+  /* Alternatively, use padding-left if you want space inside the paragraph */
+/*  padding-left: 20px; /* Adds space inside the text container */
+/*}
+
+/* Optional: For stacked images, keep default layout */
+/*.stacked-image .post-image {
+  width: 100%; /* Make image full width */
+/*  margin-bottom: 20px; /* Add space between image and text */
+/*}
+
+.stacked-image .post-content-wrapper p {
+  padding-left: 0; /* No offset for stacked layout */
+/*}
 
 
 /*
