@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transport of coarse sediment in Mid-Atlantic streams
-excerpt: "The White Clay Creek, located in southeastern Pennsylvania, is a gravel-bed river with banks that consist of cohesive sediment, bedrock, and colluvium. This watershed also has a long history of human impacts, such as the construction of mill dams, agriculture, and ongoing suburban development. Results from monitoring coarse sediment transport and numerical modeling of our study site lead us use the term 'semi-alluvial' to describe this river system."
+excerpt: "The White Clay Creek, located in southeastern Pennsylvania, is a gravel-bed river with banks that consist of cohesive sediment, bedrock, and colluvium. This watershed also has a long history of human impacts, such as the construction of mill dams. Results from monitoring coarse sediment transport and numerical modeling of our study site lead us use the term 'semi-alluvial' to describe this river system."
 photo: /images/research_pics/wcc_project_pics/semi-alluvial_model2.png
 image_position: "horizontal"  # Image below title
 image_width: "1750px"  # Custom width for the image
