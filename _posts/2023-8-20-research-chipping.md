@@ -23,8 +23,9 @@ This research has been supported by the University of Pennsylvania Center for Un
 | ![Penn CURF logo](/images/research_pics/logos/Penn_CURF.png) |  ![Penn EES logo](/images/research_pics/logos/Penn_EES.png) |--->
 
 <p float="middle">
-  <img src="/images/research_pics/logos/Penn_CURF.png" width="66%" />
-  <img src="/images/research_pics/logos/Penn_EES.png" width="33%" /> 
+  <img src="/images/research_pics/logos/Penn_CURF.png" width="60%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="/images/research_pics/logos/Penn_EES.png" width="40%" /> 
 </p>
 
 
