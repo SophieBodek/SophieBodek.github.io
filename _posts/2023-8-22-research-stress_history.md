@@ -2,7 +2,7 @@
 layout: post
 title: Strengthening and weakening in directionally varied flows
 excerpt: "Subcritical flows have the ability to influence sediment erodibility, even if the grains themselves are not mobile. Here, we examine how the history of directional flows over a granular bed impacts the critical stress for sediment motion."
-photo: /images/clam_flume.jpg
+photo: /images/research_pics/stress_hist_proj_pics/clam_flume.jpg
 image_position: "vertical"
 modified:
 tags:
@@ -14,7 +14,7 @@ Bedload transport occurs when the shear stress, or non-dimensional Shields stres
 
 <!--- ![experimental apparatus](/images/clam_flume.jpg)
 *Experimental apparatus consisting of a rotating bed of sand in a flume at the Stanford Environmental Fluid Mechanics Lab. Instrumentation includes an ADV profiler and a camera imaging the bed from above.* -->
-![performing flume work](/images/flume_work.jpg)
+![performing flume work](/images/research_pics/stress_hist_proj_pics/flume_work.jpg)
 *Adjusting an instrument in the flume at the Bob & Norma Street Environmental Fluid Mechanics Lab [photo credit: Drew Bird Photography]*
 
 This project is supported by the Army Research Office (ARO Award #W911NF-23-1-0032).
