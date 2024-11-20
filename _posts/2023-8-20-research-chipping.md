@@ -19,7 +19,7 @@ As rocks are transported, they primarily undergo two breakdown mechanisms: chipp
 
 This research has been supported by the University of Pennsylvania Center for Undergraduate Research and Fellowships (CURF) and the Hayden Scholars program of the University of Pennsylvania Department of Earth and Environmental Science.
 
-![Penn CURF logo](/images/research_pics/logos/Penn_CURF.png "logo-1" =50%x) ![Penn EES logo](/images/research_pics/logos/Penn_EES.png "logo-2" =50%x)
+![Penn CURF logo](/images/research_pics/logos/Penn_CURF.png){ width: 200px; } ![Penn EES logo](/images/research_pics/logos/Penn_EES.png){ width: 200px; }
 
 #### Publications
 
