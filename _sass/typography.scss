@@ -213,7 +213,7 @@ pre {
 /* Optional: For stacked images, keep default layout */
 .post-content.stacked-image .post-image {
   width: 100%; /* Make image full width */
-  margin-top: 20px; /* Space between image and above title */
+  /*margin-top: 20px; /* Space between image and above title */
   margin-bottom: 20px; /* Add space between image and text */
 }
 
@@ -240,43 +240,6 @@ pre {
 /*  max-width: 300px;        /* Control image size (adjust as needed) */
 /*  height: auto;            /* Maintain aspect ratio */
 /*}
-
-/* ---------- NEW STUFF
-/* Base styles for the post content wrapper */
-/*.post-content {
-  display: flex;
-  align-items: flex-start; /* Align items to the top */
-/*  flex-wrap: wrap; /* Ensure the items wrap properly */
-/*  margin-bottom: 20px; /* Add some space below each post */
-/*}
-
-/* If the image position is horizontal */
-/*.left-image .post-image {
-  margin-right: 20px; /* Space between the image and the text */
-/*}
-
-/*.left-image .post-image img {
-  width: 200px; /* Set the image width, adjust as needed */
-/*  height: auto; /* Maintain aspect ratio */
-/*}
-
-/* The text content should start after the image, so we apply padding-left to avoid overlap */
-/*.left-image .post-content-wrapper p {
-  margin-left: 220px; /* Offset text to the right of the image (image width + margin) */
-  /* Alternatively, use padding-left if you want space inside the paragraph */
-/*  padding-left: 20px; /* Adds space inside the text container */
-/*}
-
-/* Optional: For stacked images, keep default layout */
-/*.stacked-image .post-image {
-  width: 100%; /* Make image full width */
-/*  margin-bottom: 20px; /* Add space between image and text */
-/*}
-
-.stacked-image .post-content-wrapper p {
-  padding-left: 0; /* No offset for stacked layout */
-/*}
-
 
 /*
    Research page - layout for research post images and excerpts
