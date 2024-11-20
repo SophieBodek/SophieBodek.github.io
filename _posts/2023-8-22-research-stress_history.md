@@ -2,6 +2,8 @@
 layout: post
 title: Strengthening and weakening in directionally varied flows
 excerpt: "Subcritical flows have the ability to influence sediment erodibility, even if the grains themselves are not mobile. Here, we examine how the history of directional flows over a granular bed impacts the critical stress for sediment motion."
+photo: /images/clam_flume.jpg
+image_position: "vertical"
 modified:
 tags:
 comments:
