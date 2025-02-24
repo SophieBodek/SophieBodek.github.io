@@ -26,4 +26,8 @@ This project is supported by the Army Research Office (ARO Award #W911NF-23-1-00
 
 #### Conference Abstracts
 
-**Bodek, S.**, Ouellette, N.T. "How does flow history impact the threshold of motion? Strengthening and weakening in directionally varied flows." American Geophysical Union (AGU) Fall Meeting, San Francisco, CA, 11-15 December 2023, Poster.
+<!---**Bodek, S.** and Ouellette, N. T. “How do directionally varied flows influence the development of stress history in granular beds?.” American Physical Society (APS) March Meeting, Anaheim, CA, 16-21 March 2025, Talk.--->
+
+**Bodek, S.** and Ouellette, N.T. "Investigating Stress History Effects Resulting from Directionally Varied Flows Over Granular Beds." American Geophysical Union (AGU) Fall Meeting, Washington, D.C., 9-13 December 2024, Poster.
+
+**Bodek, S.** and Ouellette, N.T. "How does flow history impact the threshold of motion? Strengthening and weakening in directionally varied flows." American Geophysical Union (AGU) Fall Meeting, San Francisco, CA, 11-15 December 2023, Poster.
