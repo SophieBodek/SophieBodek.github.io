@@ -25,7 +25,7 @@ This project is supported by the Army Research Office (ARO Award #W911NF-23-1-00
 </p>
 
 #### Publications
-**Bodek, S.**, Wang, D., Shattuck, M.D., O'Hern, C.S., Ouellette, N.T. ``Anisotropic stress history effects in erodible sediment beds,'' submitted to *JGR: Earth Surface* [[preprint](https://jamming.research.yale.edu/files/papers/sophie.pdf)].
+**Bodek, S.**, Wang, D., Shattuck, M.D., O'Hern, C.S., Ouellette, N.T. "Anisotropic stress history effects in erodible sediment beds." submitted to *JGR: Earth Surface* [[preprint](https://jamming.research.yale.edu/files/papers/sophie.pdf)].
 
 #### Conference Abstracts
 
