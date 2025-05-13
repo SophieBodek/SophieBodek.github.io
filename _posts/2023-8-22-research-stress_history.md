@@ -24,9 +24,14 @@ This project is supported by the Army Research Office (ARO Award #W911NF-23-1-00
   <img src="/images/research_pics/logos/EFML.png" width="40%" /> 
 </p>
 
+#### Publications
+**Bodek, S.**, Wang, D., Shattuck, M.D., O'Hern, C.S., Ouellette, N.T. ``Anisotropic stress history effects in erodible sediment beds,'' submitted to *JGR: Earth Surface* [[preprint](https://jamming.research.yale.edu/files/papers/sophie.pdf)].
+
 #### Conference Abstracts
 
-<!---**Bodek, S.** and Ouellette, N. T. “How do directionally varied flows influence the development of stress history in granular beds?.” American Physical Society (APS) March Meeting, Anaheim, CA, 16-21 March 2025, Talk.--->
+**Bodek, S.** and Ouellette, N. T. “How do directionally varied flows influence the development of stress history in granular beds?.” American Physical Society (APS) March Meeting, Anaheim, CA, 16-21 March 2025, Talk.
+
+Wang, D., **Bodek, S.**, Ouellette, N., Shattuck. M.D., O'Hern, C. "The effects of sub-critical fluid flow on granular bed strength." American Physical Society (APS) Global Physics Summit, Anaheim, CA, 16-21 March 2025, Talk.
 
 **Bodek, S.** and Ouellette, N.T. "Investigating Stress History Effects Resulting from Directionally Varied Flows Over Granular Beds." American Geophysical Union (AGU) Fall Meeting, Washington, D.C., 9-13 December 2024, Poster.
 
