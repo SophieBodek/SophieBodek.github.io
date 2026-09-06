@@ -1,6 +1,6 @@
 {% assign pub = include.pub %}
 <p>
-  [{{ pub.number }}]
+  {% if pub.number %}[{{ pub.number }}]{% endif %}
   {{ pub.authors_before }}<strong class="author-me">Bodek, S.</strong>{{ pub.authors_after }},
   {% if pub.url %}
     <a href="{{ pub.url }}" class="pub-title"><strong>&ldquo;{{ pub.title }}&rdquo;</strong></a>
