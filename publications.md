@@ -1,8 +1,7 @@
 ---
+layout: publications
 title: Publications
+excerpt: Journal articles and preprints
 menutitle: Publications
 menuorder: 4
-exercept: Publications
-permalink: /publications/
-layout: publications
 ---
