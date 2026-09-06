@@ -1,42 +1,63 @@
----
-layout: default
----
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include _head.html %}
+</head>
+
+<body class="research-post">
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
 
 <div id="main" role="main">
-  <article class="page">
-    <div class="page__inner-wrap">
-      <header>
-        <h1 class="page__title">{{ page.title }}</h1>
-      </header>
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+  <div id="index">
+    <h1>{{ page.title }}</h1>
 
-      <section class="page__content publications-list">
+    <div class="publications-list">
 
-        {% assign peer_reviewed = site.data.publications | where: "category", "peer-reviewed" %}
-        {% assign in_review     = site.data.publications | where: "category", "in-review" %}
-        {% assign other_pubs    = site.data.publications | where: "category", "other" %}
+      {% assign in_review     = site.data.publications | where: "category", "in-review" %}
+      {% assign peer_reviewed = site.data.publications | where: "category", "peer-reviewed" %}
+      {% assign other_pubs    = site.data.publications | where: "category", "other" %}
 
-        {% if peer_reviewed.size > 0 %}
-          <h2 class="pub-section-heading">Peer-Reviewed Publications</h2>
-          {% for pub in peer_reviewed %}
-            {% include publication_entry.html pub=pub %}
-          {% endfor %}
-        {% endif %}
+      {% if in_review.size > 0 %}
+        <h2 class="pub-section-heading">Publications in Revision, Submitted, or Preparation</h2>
+        {% for pub in in_review %}
+          {% include publication_entry.html pub=pub %}
+        {% endfor %}
+      {% endif %}
+      
+      {% if peer_reviewed.size > 0 %}
+        <h2 class="pub-section-heading">Peer-Reviewed Publications</h2>
+        {% for pub in peer_reviewed %}
+          {% include publication_entry.html pub=pub %}
+        {% endfor %}
+      {% endif %}
 
-        {% if in_review.size > 0 %}
-          <h2 class="pub-section-heading">Publications in Revision, Submitted, or Preparation</h2>
-          {% for pub in in_review %}
-            {% include publication_entry.html pub=pub %}
-          {% endfor %}
-        {% endif %}
+      {% if other_pubs.size > 0 %}
+        <h2 class="pub-section-heading">Other Publications</h2>
+        {% for pub in other_pubs %}
+          {% include publication_entry.html pub=pub %}
+        {% endfor %}
+      {% endif %}
 
-        {% if other_pubs.size > 0 %}
-          <h2 class="pub-section-heading">Other Publications</h2>
-          {% for pub in other_pubs %}
-            {% include publication_entry.html pub=pub %}
-          {% endfor %}
-        {% endif %}
-
-      </section>
     </div>
-  </article>
-</div>
+  </div><!-- /#index -->
+</div><!-- /#main -->
+
+<div class="footer-wrap">
+ <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}
+
+</body>
+</html>
