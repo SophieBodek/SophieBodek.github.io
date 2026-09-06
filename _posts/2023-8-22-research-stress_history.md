@@ -26,11 +26,11 @@ This project is supported by the Army Research Office (ARO Award #W911NF-23-1-00
 
 #### Publications
 
-**Bodek, S.**, Wang, D., Shattuck, M.D., O'Hern, C.S., and Ouellette, N.T., "Ensemble statistics of bedload transport. Part 2: Stress history effects," *submitted* [[preprint](https://essopenarchive.org/doi/pdf/10.22541/essoar.15007251/v1)].
+**Bodek, S.**, Wang, D., Shattuck, M.D., O'Hern, C.S., and Ouellette, N.T., "Ensemble statistics of bedload transport. Part 2: Stress history effects," *submitted* [[preprint](https://essopenarchive.org/doi/abs/10.22541/essoar.15007251/v1)].
 
 Wang, D., **Bodek, S.**, Ouellette, N.T., Shattuck, M.D., and O'Hern, C.S., "Effect of sub-critical fluid shear flow on granular bed strength," *submitted* [[preprint](https://arxiv.org/abs/2604.14936)].
 
-**Bodek, S.**, Wang, D., Shattuck, M.D., O'Hern, C.S., and Ouellette, N.T. (2026) ["Anisotropic stress history effects in erodible sediment beds(https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JF008561)]," *JGR: Earth Surface,* **131**, e2025JF008561.
+**Bodek, S.**, Wang, D., Shattuck, M.D., O'Hern, C.S., and Ouellette, N.T. (2026) ["Anisotropic stress history effects in erodible sediment beds,"](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JF008561) *JGR: Earth Surface,* **131**, e2025JF008561.
 
 #### Conference Abstracts
 
