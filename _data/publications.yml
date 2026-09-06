@@ -1,0 +1,44 @@
+- number: 
+  category: "in-review"
+  authors_before: "Wang, D., "
+  authors_after: ", Ouellette, N.T., Shattuck, M.D., and O'Hern, C.S."
+  title: "Effect of sub-critical fluid shear flow on granular bed strength"
+  venue: "in revision"
+  year: 
+  preprint_url: "https://arxiv.org/abs/2604.14936"
+
+- number: 3
+  category: "peer-reviewed"
+  authors_before: ""
+  authors_after: ", Wang, D., Shattuck, M.D., O'Hern, C.S., and Ouellette, N.T."
+  title: "Anisotropic Stress History Effects in Erodible Sediment Beds"
+  url: "https://doi.org/10.1029/2025JF008561"
+  venue: "Journal of Geophysical Research: Earth Surface"
+  volume: 131
+  issue: 1
+  pages: "e2025JF008561"
+  year: 2026
+
+- number: 2
+  category: "peer-reviewed"
+  authors_before: ""
+  authors_after: " and Jerolmack, D.J."
+  title: "Breaking down chipping and fragmentation in sediment transport: the control of material strength"
+  url: "https://doi.org/10.5194/esurf-9-1531-2021"
+  venue: "Earth Surface Dynamics"
+  volume: 9
+  issue: 6
+  pages: "1531–1543"
+  year: 2021
+
+- number: 1
+  category: "peer-reviewed"
+  authors_before: ""
+  authors_after: ", Pizzuto, J.E., McCarthy, K.E., and Affinito, R.A."
+  title: "Achieving Equilibrium as a Semi-Alluvial Channel: Anthropogenic, Bedrock, and Colluvial Controls on the White Clay Creek, PA, USA"
+  url: "https://doi.org/10.1029/2020JF005920"
+  venue: "Journal of Geophysical Research: Earth Surface"
+  volume: 126
+  issue: 10
+  pages: "e2020JF005920"
+  year: 2021
