@@ -1,0 +1,60 @@
+.publications-list {
+  p {
+    margin-bottom: 1.2em;
+    line-height: 1.6;
+  }
+
+  // Section headings
+  .pub-section-heading {
+    margin-top: 2em;
+    margin-bottom: 1em;
+    text-transform: uppercase;   // "PEER-REVIEWED PUBLICATIONS" style
+    letter-spacing: 0.05em;
+    font-size: 1.1em;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    padding-bottom: 0.3em;
+  }
+
+  // Your highlighted name
+  .author-me {
+    color: #e0a325;   // gold/amber
+  }
+
+  // Article title with link: bold, colored, underlined
+  .pub-title {
+    color: #e8564a;   // red/salmon
+    text-decoration: underline;
+
+    &:hover {
+      color: #c73d33;
+    }
+  }
+
+  // Title WITHOUT a link (in-prep work) — keep styling consistent
+  // but not clickable-looking. Choose one:
+  .pub-title-nolink {
+    color: inherit;              // plain text; OR use #e8564a to match
+    // text-decoration: underline;  // uncomment if you want underline anyway
+  }
+
+  // Journal title in italics (handled by <em>, this allows tweaks)
+  .pub-venue {
+    font-style: italic;
+  }
+
+  // Volume in bold (handled by <strong>)
+  .pub-volume {
+    font-weight: 700;
+  }
+
+  // Preprint link
+  .pub-preprint {
+    color: #e8564a;
+    font-weight: 600;
+    margin-left: 0.25em;
+
+    &:hover {
+      color: #c73d33;
+    }
+  }
+}
