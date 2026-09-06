@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+  <article class="page">
+    <div class="page__inner-wrap">
+      <header>
+        <h1 class="page__title">{{ page.title }}</h1>
+      </header>
+
+      <section class="page__content publications-list">
+
+        {% assign peer_reviewed = site.data.publications | where: "category", "peer-reviewed" %}
+        {% assign in_review     = site.data.publications | where: "category", "in-review" %}
+        {% assign other_pubs    = site.data.publications | where: "category", "other" %}
+
+        {% if peer_reviewed.size > 0 %}
+          <h2 class="pub-section-heading">Peer-Reviewed Publications</h2>
+          {% for pub in peer_reviewed %}
+            {% include publication_entry.html pub=pub %}
+          {% endfor %}
+        {% endif %}
+
+        {% if in_review.size > 0 %}
+          <h2 class="pub-section-heading">Publications in Revision, Submitted, or Preparation</h2>
+          {% for pub in in_review %}
+            {% include publication_entry.html pub=pub %}
+          {% endfor %}
+        {% endif %}
+
+        {% if other_pubs.size > 0 %}
+          <h2 class="pub-section-heading">Other Publications</h2>
+          {% for pub in other_pubs %}
+            {% include publication_entry.html pub=pub %}
+          {% endfor %}
+        {% endif %}
+
+      </section>
+    </div>
+  </article>
+</div>
