@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Strengthening and weakening in directionally varied flows
+title: Impact of directional stress history on sediment bed erodibility
 excerpt: "Subcritical flows have the ability to influence sediment erodibility, even if the grains themselves are not mobile. Here, we examine how the history of directional flows over a granular bed impacts the critical stress for sediment motion."
 photo: /images/research_pics/stress_hist_proj_pics/clam_flume.jpg
 image_position: "vertical"
@@ -25,14 +25,23 @@ This project is supported by the Army Research Office (ARO Award #W911NF-23-1-00
 </p>
 
 #### Publications
-**Bodek, S.**, Wang, D., Shattuck, M.D., O'Hern, C.S., Ouellette, N.T. "Anisotropic stress history effects in erodible sediment beds." submitted to *JGR: Earth Surface* [[preprint](https://jamming.research.yale.edu/files/papers/sophie.pdf)].
+
+**Bodek, S.**, Wang, D., Shattuck, M.D., O'Hern, C.S., and Ouellette, N.T., "Ensemble statistics of bedload transport. Part 2: Stress history effects," *submitted* [[preprint](https://essopenarchive.org/doi/pdf/10.22541/essoar.15007251/v1)].
+
+Wang, D., **Bodek, S.**, Ouellette, N.T., Shattuck, M.D., and O'Hern, C.S., "Effect of sub-critical fluid shear flow on granular bed strength," *submitted* [[preprint](https://arxiv.org/abs/2604.14936)].
+
+**Bodek, S.**, Wang, D., Shattuck, M.D., O'Hern, C.S., and Ouellette, N.T. (2026) ["Anisotropic stress history effects in erodible sediment beds(https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JF008561)]," *JGR: Earth Surface,* **131**, e2025JF008561.
 
 #### Conference Abstracts
 
-**Bodek, S.** and Ouellette, N. T. “How do directionally varied flows influence the development of stress history in granular beds?.” American Physical Society (APS) Global Physics Summit, Anaheim, CA, 16-21 March 2025, Talk.
+Wang, D., **Bodek, S.**, Ouellette, N. T., Shattuck, M.D., O’Hern, C.S., “Effects of sub-critical fluid flows on sediment strength,” American Physical Society (APS) Global Physics Summit, Denver, CO, 15–20 March 2026, Talk.
 
-Wang, D., **Bodek, S.**, Ouellette, N., Shattuck. M.D., O'Hern, C. "The effects of sub-critical fluid flow on granular bed strength." American Physical Society (APS) Global Physics Summit, Anaheim, CA, 16-21 March 2025, Talk.
+**Bodek, S.** and Ouellette, N. T., “Directional stress history effects on sediment motion – from grain wiggles to saltation,” American Geophysical Union (AGU) Fall Meeting, New Orleans, LA, 15–19 December 2025, Talk.
 
-**Bodek, S.** and Ouellette, N.T. "Investigating Stress History Effects Resulting from Directionally Varied Flows Over Granular Beds." American Geophysical Union (AGU) Fall Meeting, Washington, D.C., 9-13 December 2024, Poster.
+**Bodek, S.** and Ouellette, N. T. “How do directionally varied flows influence the development of stress history in granular beds?” American Physical Society (APS) Global Physics Summit, Anaheim, CA, 16-21 March 2025, Talk.
 
-**Bodek, S.** and Ouellette, N.T. "How does flow history impact the threshold of motion? Strengthening and weakening in directionally varied flows." American Geophysical Union (AGU) Fall Meeting, San Francisco, CA, 11-15 December 2023, Poster.
+Wang, D., **Bodek, S.**, Ouellette, N., Shattuck. M.D., and O'Hern, C., "The effects of sub-critical fluid flow on granular bed strength," American Physical Society (APS) Global Physics Summit, Anaheim, CA, 16-21 March 2025, Talk.
+
+**Bodek, S.** and Ouellette, N.T., "Investigating Stress History Effects Resulting from Directionally Varied Flows Over Granular Beds," American Geophysical Union (AGU) Fall Meeting, Washington, D.C., 9-13 December 2024, Poster.
+
+**Bodek, S.** and Ouellette, N.T., "How does flow history impact the threshold of motion? Strengthening and weakening in directionally varied flows," American Geophysical Union (AGU) Fall Meeting, San Francisco, CA, 11-15 December 2023, Poster.
