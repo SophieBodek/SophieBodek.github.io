@@ -2,7 +2,7 @@
 layout: page
 title: Curriculum Vitae
 menutitle: CV
-menuorder: 4
+menuorder: 5
 ---
 
 <iframe width="100%" height="600" src="https://www.docdroid.net/dchdrnI/s-bodek-cv-9-2026-pdf" frameborder="0" allowtransparency allowfullscreen></iframe>
