@@ -1,12 +1,42 @@
 ## Introduction
-This template utilizes Jekyll, an open source static website generator, as well as a theme based largely off of the Minimal Mistakes theme by Michael Rose. The purpose of this template is to provide you with a simple, well designed website that is optimized for hosting on Github pages. We aim to reduce the technological know-how and time that is usually required for maintaining a personal or professional website.
-
-#### Why Should I Use This?
-By using this template you will have a website that is well designed, easy to maintain, free to host and easy to update. While there are many options out there for personal and professional websites, most are dependant on the platform on which they were built, and cannot be easily migrated. This template, while built for Github Pages integration, provides flexibility should you choose to host it elsewhere.
+This template utilizes Jekyll, an open source static website generator, as well as a theme based largely off of the Minimal Mistakes theme by Michael Rose. The purpose of this template is to provide you (i.e., me) with a simple, well designed website that is optimized for hosting on Github pages. We aim to reduce the technological know-how and time that is usually required for maintaining a personal or professional website.
 
 ## [Getting Started Guide](https://ncsu-libraries.github.io/jekyll-academic-docs/)
 Complete documentation for getting started as well as advanced features of Jekyll Academic can be found at [https://ncsu-libraries.github.io/jekyll-academic-docs/](https://ncsu-libraries.github.io/jekyll-academic-docs/).
 
+<!--
+#### Why Should I Use This?
+By using this template you will have a website that is well designed, easy to maintain, free to host and easy to update. While there are many options out there for personal and professional websites, most are dependant on the platform on which they were built, and cannot be easily migrated. This template, while built for Github Pages integration, provides flexibility should you choose to host it elsewhere.
+-->
+
+## Reminders (for me)
+What to do when you want to update/modify your webpages:
+
+### About Me/Personal Info
+- To modify social media handles, etc., update *_config.yml* (this is also where the color highlight/lowlight for the heading can be changed); if you want to add new networking websites or other bio information not already included in *_config.yml*, modify *_includes/_author-bio.html*.
+- To modify the homepage (i.e., the "about me" section), edit the *index.md* markdown document.
+- Change the *favicon.png* image to change the icon on the webpage tab.
+
+### Research
+- To edit an extant research project webpages, modify the relevant markdown document in the *_posts* folder (e.g., *_posts/2026-9-5-research-stochastic_bedload.md*).
+- To add new research project as a webpage, create a new markdown document:
+  - Include date in the document name (I think they are ordered by date); the part of the title after the date is the name of the webpage in the url.
+  - In the markdown document header, include a title, short excerpt, and image that appear on the **Research** webpage. If no excerpt is included, defaults to showing the first several lines of the text on the research project webpage.
+  - The image can be specified to be vertical (i.e., to the left of the excerpt text) or horizontal (i.e., on top of the excerpt text).
+
+### Teaching/Mentoring/Outreach
+Edit the markdown document *teaching.md*. 
+
+### Publications
+- To add/edit entries, modify *_data/publications.yml*.
+- To change format of the citations themselves, modify *_includes/publication_entry.html*.
+- If you change the color scheme of the highlight/lowlight in the heading, you will also want to change the color of the article titles in *_sass/publications.scss* (they currently match). 
+
+### CV
+Edit the markdown document *cv.md*; this primarily entails updating the hyperlink to a document hosting page with the actual CV pdf. Right now, the pdf is hosted on docdroid. 
+
+
+<!--
 ## Migrating to a new default branch name
 We've decided to change this project's default branch name to 'main'.  If you've forked this repository prior to July 20th, 2021, then you should a message with update instructions when you go to your fork in github: 
 
@@ -32,3 +62,4 @@ If you have any reveal.js presentations posted, you may need to make some update
 Moving forward, if you'd like to update reveal.js you will need to run the following commands:
 
   `$ git submodule update --remote`
+-->
