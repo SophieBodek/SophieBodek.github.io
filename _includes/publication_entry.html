@@ -1,11 +1,2 @@
 {% assign pub = include.pub %}
-<p>
-  {% if pub.number %}[{{ pub.number }}]{% endif %}
-  {{ pub.authors_before }}<strong class="author-me">Bodek, S.</strong>{{ pub.authors_after }},
-  {% if pub.url %}
-    <a href="{{ pub.url }}" class="pub-title"><strong>&ldquo;{{ pub.title }}&rdquo;</strong></a>
-  {% else %}
-    <span class="pub-title-nolink"><strong>&ldquo;{{ pub.title }}&rdquo;</strong></span>
-  {% endif %}
-  <em class="pub-venue">{{ pub.venue }}</em>{% if pub.volume %}, <strong class="pub-volume">{{ pub.volume }}</strong>{% if pub.issue %} ({{ pub.issue }}){% endif %}{% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}{% if pub.year %} ({{ pub.year }}){% endif %}.{% if pub.preprint_url %} <a href="{{ pub.preprint_url }}" class="pub-preprint">[preprint]</a>{% endif %}
-</p>
+<p>{% if pub.number %}[{{ pub.number }}] {% endif %}{{ pub.authors_before }}<strong class="author-me">Bodek, S.</strong>{{ pub.authors_after }}, {% if pub.url %}<a href="{{ pub.url }}" class="pub-title"><strong>&ldquo;{{ pub.title }}&rdquo;</strong></a>{% else %}<span class="pub-title-nolink"><strong>&ldquo;{{ pub.title }}&rdquo;</strong></span>{% endif %} <em class="pub-venue">{{ pub.venue }}</em>{% if pub.volume %}, <strong class="pub-volume">{{ pub.volume }}</strong>{% if pub.issue %} ({{ pub.issue }}){% endif %}{% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}{% if pub.year %} ({{ pub.year }}){% endif %}.{% if pub.preprint_url %} <a href="{{ pub.preprint_url }}" class="pub-preprint">[preprint]</a>{% endif %}</p>
