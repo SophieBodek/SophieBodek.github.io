@@ -1,0 +1,119 @@
+- id: wang2026-aps-subcritical
+  number: 
+  authors_before: "Wang, D., "
+  authors_after: ", Ouellette, N. T., Shattuck, M.D., and O'Hern, C.S."
+  title: "Effects of sub-critical fluid flows on sediment strength,"
+  meeting: "American Physical Society (APS) Global Physics Summit"
+  location: "Denver, CO"
+  dates: "15–20 March 2026"
+  type: "Talk"
+
+- id: bodek2025-agu-directional
+  number: 
+  authors_before: ""
+  authors_after: " and Ouellette, N. T."
+  title: "Directional stress history effects on sediment motion – from grain wiggles to saltation,"
+  meeting: "American Geophysical Union (AGU) Fall Meeting"
+  location: "New Orleans, LA"
+  dates: "15–19 December 2025"
+  type: "Talk"
+
+- id: bodek2025-aps-directional
+  number: 
+  authors_before: ""
+  authors_after: " and Ouellette, N. T."
+  title: "How do directionally varied flows influence the development of stress history in granular beds?"
+  meeting: "American Physical Society (APS) Global Physics Summit"
+  location: "Anaheim, CA"
+  dates: "16–21 March 2025"
+  type: "Talk"
+
+- id: wang2025-aps-subcritical
+  number: 
+  authors_before: "Wang, D., "
+  authors_after: ", Ouellette, N. T., Shattuck, M.D., and O'Hern, C.S."
+  title: "The effects of sub-critical fluid flow on granular bed strength,"
+  meeting: "American Physical Society (APS) Global Physics Summit"
+  location: "Anaheim, CA"
+  dates: "16–21 March 2025"
+  type: "Talk"
+
+- id: bodek2024-agu-stresshistory
+  number: 
+  authors_before: ""
+  authors_after: " and Ouellette, N. T."
+  title: "Investigating Stress History Effects Resulting from Directionally Varied Flows Over Granular Beds,"
+  meeting: "American Geophysical Union (AGU) Fall Meeting"
+  location: "Washington, D.C."
+  dates: "9–13 December 2024"
+  type: "Poster"
+
+- id: bodek2023-agu-threshold
+  number: 
+  authors_before: ""
+  authors_after: " and Ouellette, N. T."
+  title: "How does flow history impact the threshold of motion? Strengthening and weakening in directionally varied flows,"
+  meeting: "American Geophysical Union (AGU) Fall Meeting"
+  location: "San Francisco, CA"
+  dates: "11–15 December 2023"
+  type: "Poster"
+
+- id: bodek2020-agu-bankfull
+  number: 
+  authors_before: ""
+  authors_after: ", Pizzuto, J.E., McCarthy, K.M., and Affinito, R."
+  title: "Getting Beyond the Bankfull Shield's Parameter: A Continuum of Threshold Channel Types Illustrated by the White Clay Creek, PA, a Bedrock-Alluvial River with Cohesive Banks,"
+  meeting: "American Geophysical Union (AGU) Fall Meeting"
+  location: "Online"
+  dates: "1–17 December 2020"
+  type: "Talk"
+
+- id: pizzuto2020-gsa-quaternary
+  number: 
+  authors_before: "Pizzuto, J.E., Aalto, R., "
+  authors_after: ", Karwan, D.L., Marquard, J., O'Neal, M., and Sturchio, N.C."
+  title: "Quaternary-Present Sediment Transport and Geomorphology of the White Clay Creek: Insights from Geomorphic Mapping and Radionuclides,"
+  meeting: "Geological Society of America (GSA) Northeastern Section Meeting"
+  location: "Cancelled due to Covid-19"
+  dates: "2020"
+  type: ""
+
+- id: bodek2019-agu-threshold
+  number: 
+  authors_before: ""
+  authors_after: " and Pizzuto, J.E."
+  title: "Is the White Clay Creek a Threshold Channel? Evaluating Bed Mobility at a Gravel-Bed River in Pennsylvania, U.S.A.,"
+  meeting: "American Geophysical Union (AGU) Fall Meeting"
+  location: "San Francisco, CA"
+  dates: "9–13 December 2019"
+  type: "Poster"
+
+- id: pizzuto2019-agu-hydraulic
+  number: 
+  authors_before: "Pizzuto, J.E. and "
+  authors_after: ""
+  title: "The Hydraulic Geometry of the Christina River Basin – Revisiting Classic Contributions By Leopold and Wolman,"
+  meeting: "American Geophysical Union (AGU) Fall Meeting"
+  location: "San Francisco, CA"
+  dates: "9–13 December 2019"
+  type: "Talk"
+
+- id: bodek2018-agu-pebbles
+  number: 
+  authors_before: ""
+  authors_after: " and Jerolmack, D.J."
+  title: "How pebbles round and rocks fragment: particle shape evolution according to transport mechanism,"
+  meeting: "American Geophysical Union (AGU) Fall Meeting"
+  location: "Washington, D.C."
+  dates: "10–14 December 2018"
+  type: "Poster"
+
+- id: qian2017-agu-erosion
+  number: 
+  authors_before: "Qian, F., Lee, D.B., "
+  authors_after: ", Roberts, S., Topping, T.T., Robele, Y., Koditschek, D.E., and Jerolmack, D.J."
+  title: "Determination of erosion thresholds and aeolian dune stabilization mechanisms via robotic shear strength measurements,"
+  meeting: "American Geophysical Union (AGU) Fall Meeting"
+  location: "New Orleans, LA"
+  dates: "11–15 December 2017"
+  type: "Poster"
