@@ -7,7 +7,7 @@ menuorder: 3
 ---
 
 ### Penn State Brandywine, Adjunct Instructor
-As an adjunct instructor, I developed a general education syllabus focused on Earth Science literacy. This course, EARTH 100, touched on topics that included societal interactions with mineral and water resources, the changing climate, natural hazards, and geologic time. I also taught two courses, [GEOG 3N](https://www.e-education.psu.edu/geog3/) and [EARTH 111](https://www.e-education.psu.edu/earth111/), that had syllabi developed for asynchronous remote instruction.
+As an adjunct instructor, I developed a general education course focused on Earth Science literacy. This course, EARTH 100, touched on topics that included societal interactions with mineral and water resources, the changing climate, natural hazards, and geologic time. I also taught two courses, [GEOG 3N](https://www.e-education.psu.edu/geog3/) and [EARTH 111](https://www.e-education.psu.edu/earth111/), that had syllabi developed for asynchronous remote instruction.
 
 **Courses Taught**
 - EARTH 111: Water: Science and Society - *Spring 2022*
@@ -15,7 +15,7 @@ As an adjunct instructor, I developed a general education syllabus focused on Ea
 - EARTH 100: Environment Earth – *Fall 2020, Spring 2021*
 
 ### Teaching Assistantships
-As a teaching assistant for seven courses, I have had the opportunity to work with students in a variety of learning environments, such as lecturing during weekly recitations, guiding students through active learning exercises in a flipped classroom setting, leading discussions in weekly laboratory sections, or just answering homework questions during office hours. Additionally, I have led students on local field trips to explore weathering and erosion, soil profiles, stratigraphy, and geomorphology of the White Clay Creek watershed for both Surficial Processes and introductory geology classes at the University of Delaware.
+As a teaching assistant for seven courses, I have had the opportunity to work with students in a variety of learning environments, such as lecturing during weekly recitations, guiding students through active learning exercises in a flipped classroom setting, leading discussions in weekly laboratory sections, performing open channel flow demonstrations, or just answering homework questions during office hours. Additionally, I have led students on local field trips to explore weathering and erosion, soil profiles, stratigraphy, and geomorphology of the White Clay Creek watershed for both Surficial Processes and introductory geology classes at the University of Delaware.
 
 **Courses Taught at Stanford University**
 - CEE 262E: Rivers, Streams, and Canals - *Spring 2024, Spring 2026*
@@ -35,7 +35,7 @@ I have had the opportunity to mentor four undergraduate researchers at Stanford 
 
 - **Summer 2026**: IIT Bombay Engineering Physics Major ('28) supported through the Stanford - IIT Bombay Undergraduate Research Program; project titled *Hop, wiggle, and roll: statistical measurements of sediment motion in bimodal bed material*.
 - **Summer 2025**: Stanford Civil and Environmental Engineering Major ('27) supported through the Sustainability, Engineering, and Science Undergraduate Research (SESUR) Program; project titled *Granular physics problems for sustainability solutions*.
-- **Summer 2024**: Stanford Human Biology Major ('27) through the Sustainability, Engineering, and Science Undergraduate Research (SESUR) Program; project topic [*The Effect of Microplastics on Sediment Transport*](https://news.stanford.edu/stories/2024/08/meet-students-who-spent-their-summer-pursuing-sustainability-research).
+- **Summer 2024**: Stanford Human Biology Major ('27) supported through the Sustainability, Engineering, and Science Undergraduate Research (SESUR) Program; project topic [*The effect of microplastics on sediment transport*](https://sustainability.stanford.edu/news/dual-goals-health-and-sustainability).
 - **Summer 2019**: University of Delaware Geological Sciences Major ('21) who worked as a Geological Sciences Research Intern.
 
 <!--- - to a Stanford University undergraduate (undeclared major) through the [Sustainability, Engineering, and Science Undergraduate Research](https://news.stanford.edu/stories/2024/08/meet-students-who-spent-their-summer-pursuing-sustainability-research) (SESUR) program during Summer 2024
@@ -50,7 +50,7 @@ I have had the opportunity to mentor four undergraduate researchers at Stanford 
 
 ## Outreach & Engagement
 
-- **[Stanford Geokids](https://sustainability.stanford.edu/admissions-education/k-12-outreach/geokids)** (2024-2026): volunteer for the Geokids program, which involves teaching 2nd graders about the rock cycle, minerals, and soils through interactive lessons and activities on Stanford's campus.
+- **Stanford Geokids** (2024-2026): volunteer for the [Geokids](https://sustainability.stanford.edu/admissions-education/k-12-outreach/geokids) program, which involves teaching 2nd graders about the rock cycle, minerals, and soils through interactive lessons and activities on Stanford's campus.
 - **Penn Geology Society** (2016-2018): vice president and co-founder of the Penn Geology Society, which involved promoting the geosciences at Penn by planning field trips and events, and participating in university-wide sustainability initiatives. I helped plan events such as *Chalk the Walk!* a public art and education exhibit, a scientific illustration workshop series, and various field trips to Wissahickon Valley Park in Philadelphia, Palisades Park and beaches in New Jersey, and the Academy of Natural Sciences of Drexel University.
 
 <!--- **Communications Director** (2017-2018) for the Penn Earth and Environmental Science Department Undergraduate Advisory Board, which consisted of planning and promoting educational, social, and career-related events to facilitate undergraduate interest and involvement with the department.-->
