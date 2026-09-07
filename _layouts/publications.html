@@ -20,10 +20,8 @@
   <article class="page">
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
-        <h2>Test Heading</h2>
-        <p>This is a test paragraph to check the font size against the teaching page.</p>
       
-<!--      {% assign in_review     = site.data.publications | where: "category", "in-review" %}
+      {% assign in_review     = site.data.publications | where: "category", "in-review" %}
       {% assign peer_reviewed = site.data.publications | where: "category", "peer-reviewed" %}
       {% assign other_pubs    = site.data.publications | where: "category", "other" %}
 
@@ -46,7 +44,7 @@
         {% for pub in other_pubs %}
           {% include publication_entry.html pub=pub %}
         {% endfor %}
-      {% endif %}-->
+      {% endif %}
 
     </div><!-- /.article-wrap -->
   </article>
