@@ -2,16 +2,34 @@
   category: "in-review"
   authors_before: "Wang, D., "
   authors_after: ", Ouellette, N.T., Shattuck, M.D., and O'Hern, C.S."
-  title: "Effect of sub-critical fluid shear flow on granular bed strength"
+  title: "Effect of sub-critical fluid shear flow on granular bed strength,"
   venue: "in revision"
   year: 
   preprint_url: "https://arxiv.org/abs/2604.14936"
+
+- number: 
+  category: "in-review"
+  authors_before: ""
+  authors_after: ", Wang, D., Shattuck, M.D., O'Hern, C.S., and Ouellette, N.T."
+  title: "Ensemble statistics of bedload transport. Part 1: Grain motion at near-threshold conditions,"
+  venue: "submitted"
+  year: 
+  preprint_url: "https://essopenarchive.org/doi/abs/10.22541/essoar.15007250/v1"
+
+- number: 
+  category: "in-review"
+  authors_before: ""
+  authors_after: ", Wang, D., Shattuck, M.D., O'Hern, C.S., and Ouellette, N.T."
+  title: "Ensemble statistics of bedload transport. Part 2: Stress history effects,"
+  venue: "submitted"
+  year: 
+  preprint_url: "https://essopenarchive.org/doi/abs/10.22541/essoar.15007251/v1"
 
 - number: 3
   category: "peer-reviewed"
   authors_before: ""
   authors_after: ", Wang, D., Shattuck, M.D., O'Hern, C.S., and Ouellette, N.T."
-  title: "Anisotropic Stress History Effects in Erodible Sediment Beds"
+  title: "Anisotropic Stress History Effects in Erodible Sediment Beds,"
   url: "https://doi.org/10.1029/2025JF008561"
   venue: "Journal of Geophysical Research: Earth Surface"
   volume: 131
@@ -23,7 +41,7 @@
   category: "peer-reviewed"
   authors_before: ""
   authors_after: " and Jerolmack, D.J."
-  title: "Breaking down chipping and fragmentation in sediment transport: the control of material strength"
+  title: "Breaking down chipping and fragmentation in sediment transport: the control of material strength,"
   url: "https://doi.org/10.5194/esurf-9-1531-2021"
   venue: "Earth Surface Dynamics"
   volume: 9
@@ -35,10 +53,22 @@
   category: "peer-reviewed"
   authors_before: ""
   authors_after: ", Pizzuto, J.E., McCarthy, K.E., and Affinito, R.A."
-  title: "Achieving Equilibrium as a Semi-Alluvial Channel: Anthropogenic, Bedrock, and Colluvial Controls on the White Clay Creek, PA, USA"
+  title: "Achieving Equilibrium as a Semi-Alluvial Channel: Anthropogenic, Bedrock, and Colluvial Controls on the White Clay Creek, PA, USA,"
   url: "https://doi.org/10.1029/2020JF005920"
   venue: "Journal of Geophysical Research: Earth Surface"
   volume: 126
   issue: 10
   pages: "e2020JF005920"
   year: 2021
+
+- number: 
+  category: "other_pubs"
+  authors_before: ""
+  authors_after: ""
+  title: "Is the White Clay Creek a Threshold Channel? Evaluating Bed Mobility of a Gravel-Bed River in Pennsylvania, U.S.A. (Masters Thesis),"
+  url: "https://udspace.udel.edu/items/231ca303-def9-428e-959b-ed34ffbbacb1"
+  venue: 
+  volume: 
+  issue:
+  pages: "University of Delaware"
+  year: 2020
