@@ -1,0 +1,3 @@
+{% assign abs = include.abs %}
+<p>{{ abs.authors_before }}<strong class="author-me">Bodek, S.</strong>{{ abs.authors_after }},
+  &ldquo;{{ abs.title }}&rdquo;<em class="abstract-meeting">{{ abs.meeting }}</em>, {{ abs.location }}, {{ abs.dates }}{% if abs.type %}, {{ abs.type }}{% endif %}.</p>
