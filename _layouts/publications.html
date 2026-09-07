@@ -7,7 +7,7 @@
 {% include _head.html %}
 </head>
 
-<body class="research-post">
+<body class="page">
 
 {% include _browser-upgrade.html %}
 
@@ -17,42 +17,41 @@
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
-  <div id="index">
+  <article class="page">
     <h1>{{ page.title }}</h1>
-
-    <div class="publications-list">
-
+    <div class="article-wrap">
+      
       {% assign in_review     = site.data.publications | where: "category", "in-review" %}
       {% assign peer_reviewed = site.data.publications | where: "category", "peer-reviewed" %}
       {% assign other_pubs    = site.data.publications | where: "category", "other" %}
 
       {% if in_review.size > 0 %}
-        <h2 class="pub-section-heading">Publications in Revision, Submitted, or Preparation</h2>
+        <h2>Publications in Revision, Submitted, or Preparation</h2>
         {% for pub in in_review %}
           {% include publication_entry.html pub=pub %}
         {% endfor %}
       {% endif %}
-      
+
       {% if peer_reviewed.size > 0 %}
-        <h2 class="pub-section-heading">Peer-Reviewed Publications</h2>
+        <h2>Peer-Reviewed Publications</h2>
         {% for pub in peer_reviewed %}
           {% include publication_entry.html pub=pub %}
         {% endfor %}
       {% endif %}
 
       {% if other_pubs.size > 0 %}
-        <h2 class="pub-section-heading">Other Publications</h2>
+        <h2>Other Publications</h2>
         {% for pub in other_pubs %}
           {% include publication_entry.html pub=pub %}
         {% endfor %}
       {% endif %}
 
-    </div>
-  </div><!-- /#index -->
+    </div><!-- /.article-wrap -->
+  </article>
 </div><!-- /#main -->
 
 <div class="footer-wrap">
- <footer>
+  <footer>
     {% include _footer.html %}
   </footer>
 </div><!-- /.footer-wrap -->
