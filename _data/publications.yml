@@ -1,4 +1,5 @@
-- number: 
+- id: wang2026_stresshistory
+  number: 
   category: "in-review"
   authors_before: "Wang, D., "
   authors_after: ", Ouellette, N.T., Shattuck, M.D., and O'Hern, C.S."
@@ -7,7 +8,8 @@
   year: 
   preprint_url: "https://arxiv.org/abs/2604.14936"
 
-- number: 
+- id: bodek2026_stochastic1
+  number: 
   category: "in-review"
   authors_before: ""
   authors_after: ", Wang, D., Shattuck, M.D., O'Hern, C.S., and Ouellette, N.T."
@@ -16,7 +18,8 @@
   year: 
   preprint_url: "https://essopenarchive.org/doi/abs/10.22541/essoar.15007250/v1"
 
-- number: 
+- id: bodek2026_stochastic2
+  number: 
   category: "in-review"
   authors_before: ""
   authors_after: ", Wang, D., Shattuck, M.D., O'Hern, C.S., and Ouellette, N.T."
@@ -25,7 +28,8 @@
   year: 
   preprint_url: "https://essopenarchive.org/doi/abs/10.22541/essoar.15007251/v1"
 
-- number: 3
+- id: bodek2026_stresshistory
+  number: 3
   category: "peer-reviewed"
   authors_before: ""
   authors_after: ", Wang, D., Shattuck, M.D., O'Hern, C.S., and Ouellette, N.T."
@@ -37,7 +41,8 @@
   pages: "e2025JF008561"
   year: 2026
 
-- number: 2
+- id: bodek2021_chipping
+  number: 2
   category: "peer-reviewed"
   authors_before: ""
   authors_after: " and Jerolmack, D.J."
@@ -49,7 +54,8 @@
   pages: "1531–1543"
   year: 2021
 
-- number: 1
+- id: bodek2021_WCC
+  number: 1
   category: "peer-reviewed"
   authors_before: ""
   authors_after: ", Pizzuto, J.E., McCarthy, K.E., and Affinito, R.A."
@@ -61,11 +67,12 @@
   pages: "e2020JF005920"
   year: 2021
 
-- number: 
+- id: bodek_MSthesis
+  number: 
   category: "other"
   authors_before: ""
   authors_after: ""
-  title: "Is the White Clay Creek a Threshold Channel? Evaluating Bed Mobility of a Gravel-Bed River in Pennsylvania, U.S.A. (Masters Thesis),"
+  title: "Is the White Clay Creek a Threshold Channel? Evaluating Bed Mobility of a Gravel-Bed River in Pennsylvania, U.S.A. (Masters Thesis)"
   url: "https://udspace.udel.edu/items/231ca303-def9-428e-959b-ed34ffbbacb1"
   venue: 
   volume: 
