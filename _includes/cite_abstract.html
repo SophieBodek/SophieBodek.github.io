@@ -1,0 +1,6 @@
+{% assign abs = site.data.conference_abstracts | where: "id", include.id | first %}
+{% if abs %}
+  {% include abstract_entry.html abs=abs %}
+{% else %}
+  <p style="color:red;">⚠️ Conference abstract not found: {{ include.id }}</p>
+{% endif %}
