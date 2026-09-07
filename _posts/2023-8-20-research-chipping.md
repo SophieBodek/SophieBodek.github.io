@@ -26,9 +26,9 @@ This research has been supported by the University of Pennsylvania Center for Un
 
 
 #### Publications
-
-**Bodek, S.** and Jerolmack, D.J. (2021) "Breaking down chipping and fragmentation in sediment transport: the control of material strength." *Earth Surface Dynamics, 9*, 1531-1543. [doi.org/10.5194/esurf-9-1531-2021](https://esurf.copernicus.org/articles/9/1531/2021/)
+{% include cite.html id="bodek2021_chipping" %}
+<!--**Bodek, S.** and Jerolmack, D.J. (2021) "Breaking down chipping and fragmentation in sediment transport: the control of material strength." *Earth Surface Dynamics, 9*, 1531-1543. [doi.org/10.5194/esurf-9-1531-2021](https://esurf.copernicus.org/articles/9/1531/2021/)-->
 
 #### Conference Abstracts
-
-**Bodek, S.** and Jerolmack, D.J. "How pebbles round and rocks fragment: particle shape evolution according to transport mechanism." American Geophysical Union (AGU) Fall Meeting, Washington, D.C., 10-14 December 2018, Poster.
+{% include cite_abstract.html id="bodek2018-agu-pebbles" %}
+<!--**Bodek, S.** and Jerolmack, D.J. "How pebbles round and rocks fragment: particle shape evolution according to transport mechanism." American Geophysical Union (AGU) Fall Meeting, Washington, D.C., 10-14 December 2018, Poster.-->
