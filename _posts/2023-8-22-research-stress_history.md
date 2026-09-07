@@ -10,7 +10,9 @@ comments:
 category: research
 ---
 
-Bedload transport occurs when the shear stress, or non-dimensional Shields stress, imparted by a fluid exceeds a critical Shields stress for sediment motion. However, this critical Shields stress can be difficult to predict as sediment properties, bed and channel morphology, as well as their interaction with the surrounding fluid all influence erodibility. Previous studies have shown that the history of fluid stress imparted onto the sediment bed influences the critical Shields stress – particularly that sustained subcritical flows will strengthen the bed through the development of a preferred orientation that can resist directional fluid shear. This can be seen, for example, in the formation of riverbed “armor”. Recent studies have also shown that this strengthening effect is strongly directional; the threshold of motion is lower for a bed-disrupting flow that occurs in a direction opposite to that of the initial subcritical flow when compared to a recently deposited bed (Galanis, et al., 2022; Cúñez, et al., 2022). In this study, we examine directional strengthening and weakening in a granular material for multiple fluid stress orientations by utilizing a rotating bed of sand within a laboratory flume. After subjecting the granular bed to a subcritical conditioning flow, we then changed the orientation of the bed within the flume by 0˚, 45˚, 90˚, 135˚, and 180˚. By examining the effect of strengthening and weakening in directionally varied flows, we can better understand how the history of subcritical and critical fluid-imposed stresses can modify the contacts and force networks within granular materials. This study has implications for predicting sediment transport in natural settings where flows can be bi-directional, such as tidally-influenced channels or coastal systems, as well as environments that may be impacted by storms or floodwaters that advance from different directions than the usual flow conditions.
+Bedload transport occurs when the shear stress, or non-dimensional Shields stress, imparted by a fluid exceeds a critical Shields stress for sediment motion. However, this critical Shields stress can be difficult to predict as sediment properties, bed and channel morphology, as well as their interaction with the surrounding fluid all influence erodibility. Previous studies have shown that the history of fluid stress imparted onto the sediment bed influences the critical Shields stress – particularly that sustained subcritical flows will strengthen the bed through the development of a preferred orientation that can resist directional fluid shear. This can be seen, for example, in the formation of riverbed “armor”. Recent studies have also shown that this strengthening effect is strongly directional; the threshold of motion is lower for a bed-disrupting flow that occurs in a direction opposite to that of the initial subcritical flow when compared to a recently deposited bed (Galanis, et al., 2022; Cúñez, et al., 2022). 
+
+In this study, we examine directional strengthening and weakening in a granular material for multiple fluid stress orientations by utilizing a rotating bed of sand within a laboratory flume. After subjecting the granular bed to a subcritical conditioning flow, we then changed the orientation of the bed within the flume by 0˚, 45˚, 90˚, 135˚, and 180˚. Using high-resolution imaging, we identify individual grain trajectories and measure grain entrainment probability, activity, and velocity, along with bulk sediment bed parameters and statistics associated with grain flights (e.g., hop time and hop distance). We confirm bed strengthening (i.e., lower grain velocity and activity; slower, more abrupt grain flights) in the unidirectional case, especially for flows at or below the nominal critical Shields stress. As the angular offset increases between the conditioning and erosive flows, both grain velocity and activity increase, while grain flights become longer and more sustained; the greatest bed weakening was observed at offsets of 135° and 180°. Our results confirm that stress history is stored anisotropically in the sediment bed. Further, we find that bulk bed statistics–grain activity and entrainment probability—retain signatures of directional stress history across all Shields stresses tested, while trackwise statistics—flight distance and travel time—converge toward unconditioned values above the critical shear. Discrete element method (DEM) modeling performed by colleagues for an analogous system produce similar results, where conditioned granular beds show directionally-dependent geometric stability. Our results indicate that stress history primarily modulates the entrainment probability rather than altering the kinematics of grains undergoing sustained transport.These results inform our understanding of how subcritical and critical fluid-imposed stresses can modify the grain contact and force networks in geophysical contexts, such as tidally-influenced channels or coastal systems, as well as environments that may be impacted by storms or floodwaters that advance from different directions than the usual flow conditions.
 
 <!---![experimental apparatus](/images/research_pics/stress_hist_proj_pics/clam_flume.jpg)
 *Experimental apparatus consisting of a rotating bed of sand in a flume at the Bob & Norma Street Environmental Fluid Mechanics Lab. Instrumentation includes an ADV profiler and a camera imaging the bed from above.*--->
@@ -25,16 +27,23 @@ This project is supported by the Army Research Office (ARO Award #W911NF-23-1-00
 </p>
 
 #### Publications
-
-**Bodek, S.**, Wang, D., Shattuck, M.D., O'Hern, C.S., and Ouellette, N.T., "Ensemble statistics of bedload transport. Part 2: Stress history effects," *submitted* [[preprint](https://essopenarchive.org/doi/abs/10.22541/essoar.15007251/v1)].
+{% include cite.html id="bodek2026_stresshistory" %}
+{% include cite.html id="wang2026_stresshistory" %}
+{% include cite.html id="bodek2026_stochastic2" %}
+<!--**Bodek, S.**, Wang, D., Shattuck, M.D., O'Hern, C.S., and Ouellette, N.T., "Ensemble statistics of bedload transport. Part 2: Stress history effects," *submitted* [[preprint](https://essopenarchive.org/doi/abs/10.22541/essoar.15007251/v1)].
 
 Wang, D., **Bodek, S.**, Ouellette, N.T., Shattuck, M.D., and O'Hern, C.S., "Effect of sub-critical fluid shear flow on granular bed strength," *submitted* [[preprint](https://arxiv.org/abs/2604.14936)].
 
-**Bodek, S.**, Wang, D., Shattuck, M.D., O'Hern, C.S., and Ouellette, N.T. (2026) ["Anisotropic stress history effects in erodible sediment beds,"](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JF008561) *JGR: Earth Surface,* **131**, e2025JF008561.
+**Bodek, S.**, Wang, D., Shattuck, M.D., O'Hern, C.S., and Ouellette, N.T. (2026) ["Anisotropic stress history effects in erodible sediment beds,"](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JF008561) *JGR: Earth Surface,* **131**, e2025JF008561.-->
 
 #### Conference Abstracts
-
-Wang, D., **Bodek, S.**, Ouellette, N. T., Shattuck, M.D., O’Hern, C.S., “Effects of sub-critical fluid flows on sediment strength,” American Physical Society (APS) Global Physics Summit, Denver, CO, 15–20 March 2026, Talk.
+{% include cite_abstract.html id="wang2026-aps-subcritical" %}
+{% include cite_abstract.html id="bodek2025-agu-directional" %}
+{% include cite_abstract.html id="bodek2025-aps-directional" %}
+{% include cite_abstract.html id="wang2025-aps-subcritical" %}
+{% include cite_abstract.html id="bodek2024-agu-stresshistory" %}
+{% include cite_abstract.html id="bodek2023-agu-threshold" %}
+<!--Wang, D., **Bodek, S.**, Ouellette, N. T., Shattuck, M.D., O’Hern, C.S., “Effects of sub-critical fluid flows on sediment strength,” American Physical Society (APS) Global Physics Summit, Denver, CO, 15–20 March 2026, Talk.
 
 **Bodek, S.** and Ouellette, N. T., “Directional stress history effects on sediment motion – from grain wiggles to saltation,” American Geophysical Union (AGU) Fall Meeting, New Orleans, LA, 15–19 December 2025, Talk.
 
@@ -44,4 +53,4 @@ Wang, D., **Bodek, S.**, Ouellette, N., Shattuck. M.D., and O'Hern, C., "The eff
 
 **Bodek, S.** and Ouellette, N.T., "Investigating Stress History Effects Resulting from Directionally Varied Flows Over Granular Beds," American Geophysical Union (AGU) Fall Meeting, Washington, D.C., 9-13 December 2024, Poster.
 
-**Bodek, S.** and Ouellette, N.T., "How does flow history impact the threshold of motion? Strengthening and weakening in directionally varied flows," American Geophysical Union (AGU) Fall Meeting, San Francisco, CA, 11-15 December 2023, Poster.
+**Bodek, S.** and Ouellette, N.T., "How does flow history impact the threshold of motion? Strengthening and weakening in directionally varied flows," American Geophysical Union (AGU) Fall Meeting, San Francisco, CA, 11-15 December 2023, Poster.-->
