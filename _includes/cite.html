@@ -1,0 +1,6 @@
+{% assign pub = site.data.publications | where: "id", include.id | first %}
+{% if pub %}
+  {% include publication_entry.html pub=pub %}
+{% else %}
+  <p style="color:red;">⚠️ Publication not found: {{ include.id }}</p>
+{% endif %}
