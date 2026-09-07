@@ -4,7 +4,7 @@ title: Impact of directional stress history on sediment bed erodibility
 excerpt: "Subcritical flows have the ability to influence sediment erodibility, even if the grains themselves are not mobile. Here, we examine how the history of directional flows over a granular bed impacts the critical stress for sediment motion."
 photo: /images/research_pics/stress_hist_proj_pics/clam_flume.jpg
 image_position: "vertical"
-modified:
+modified: 2026-9-6
 tags:
 comments:
 category: research
