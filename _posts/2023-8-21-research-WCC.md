@@ -22,19 +22,22 @@ This project was supported by the Delaware Watershed Research Fund (Award #DWRF-
 </p>
 
 #### Publications
-
-**Bodek, S.**, Pizzuto, J.E., McCarthy, K.E., Affinito, R.A. (2021) “Achieving equilibrium as a semi-alluvial channel: anthropogenic, bedrock, and colluvial controls on the White Clay Creek, PA, USA.” *Journal of Geophysical Research: Earth Surface, 126*, e2020JF005920. [doi.org/10.1029/2020JF005920](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JF005920)
+{% include cite.html id="bodek2021_WCC" %}
+<!--**Bodek, S.**, Pizzuto, J.E., McCarthy, K.E., Affinito, R.A. (2021) “Achieving equilibrium as a semi-alluvial channel: anthropogenic, bedrock, and colluvial controls on the White Clay Creek, PA, USA.” *Journal of Geophysical Research: Earth Surface, 126*, e2020JF005920. [doi.org/10.1029/2020JF005920](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JF005920)-->
 
 #### Thesis
-
-**Bodek, S.** (2020). "Is the White Clay Creek a Threshold Channel? Evaluating Bed Mobility of a Gravel-Bed River in Pennsylvania, U.S.A." (Master’s thesis). Newark, DE: University of Delaware. [doi.org/10.6084/m9.figshare.14551290.v1](https://doi.org/10.6084/m9.figshare.14551290.v1)
+{% include cite.html id="bodek_MSthesis" %}
+<!--**Bodek, S.** (2020). "Is the White Clay Creek a Threshold Channel? Evaluating Bed Mobility of a Gravel-Bed River in Pennsylvania, U.S.A." (Master’s thesis). Newark, DE: University of Delaware. [doi.org/10.6084/m9.figshare.14551290.v1](https://doi.org/10.6084/m9.figshare.14551290.v1)-->
 
 #### Conference Abstracts
-
-**Bodek, S.**, Pizzuto, J.E., McCarthy, K.M., Affinito, R. "Getting Beyond the Bankfull Shield's Parameter: A Continuum of Threshold Channel Types Illustrated by the White Clay Creek, PA, a Bedrock-Alluvial River with Cohesive Banks." American Geophysical Union (AGU) Fall Meeting, Online, 1-17 December 2020, Talk.
+{% include cite_abstract.html id="bodek2020-agu-bankfull" %}
+{% include cite_abstract.html id="pizzuto2020-gsa-quaternary" %}
+{% include cite_abstract.html id="bodek2019-agu-threshold" %}
+{% include cite_abstract.html id="pizzuto2019-agu-hydraulic" %}
+<!--**Bodek, S.**, Pizzuto, J.E., McCarthy, K.M., Affinito, R. "Getting Beyond the Bankfull Shield's Parameter: A Continuum of Threshold Channel Types Illustrated by the White Clay Creek, PA, a Bedrock-Alluvial River with Cohesive Banks." American Geophysical Union (AGU) Fall Meeting, Online, 1-17 December 2020, Talk.
 
 Pizzuto, J.E., Aalto, R., **Bodek, S.**, Karwan, D.L., Marquard, J., O'Neal, M., Sturchio, N.C. "Quaternary-Present Sediment Transport and Geomorphology of the White Clay Creek: Insights from Geomorphic Mapping and Radionuclides." Geological Society of American (GSA) Northeastern Section Meeting, Reston, VA, 20-22 March 2020, Cancelled due to Covid-19. [doi.org/10.1130/abs/2020SE-345266](https://gsa.confex.com/gsa/2020SE/webprogram/Paper345266.html)
 
 **Bodek, S.** and Pizzuto, J.E. "Is the White Clay Creek a Threshold Channel? Evaluating Bed Mobility at a Gravel-Bed River in Pennsylvania, U.S.A." American Geophysical Union (AGU) Fall Meeting, San Francisco, CA, 9-13 December 2019, Poster. [doi.org/10.1002/essoar.10502277.1](https://essopenarchive.org/doi/full/10.1002/essoar.10502277.1)
 
-Pizzuto, J.E. and **Bodek, S.** "The Hydraulic Geometry of the Christina River Basin – Revisiting Classic Contributions By Leopold and Wolman." American Geophysical Union (AGU) Fall Meeting, San Francisco, CA, 9-13 December 2019, Talk.
+Pizzuto, J.E. and **Bodek, S.** "The Hydraulic Geometry of the Christina River Basin – Revisiting Classic Contributions By Leopold and Wolman." American Geophysical Union (AGU) Fall Meeting, San Francisco, CA, 9-13 December 2019, Talk.-->
