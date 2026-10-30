@@ -4,7 +4,7 @@ title: Teaching
 excerpt: 
 menutitle: Teaching & Outreach
 menuorder: 3
-toc: true
+<!--- toc: true --->
 ---
 
 ### Penn State Brandywine, Adjunct Instructor
